@@ -15,13 +15,13 @@
 
   <div class="navbar">
     <div class="logo">
-      <img src="bootstrap/images/Prawas_logo_round.png.png" alt="Logo" />
+      <a href="index.php"><img src="bootstrap/images/Prawas_logo_round.png.png" alt="Logo" /></a>
     </div>
     <div class="nav-links">
       <a href="#">Home</a>
       <a href="#">Group Tour Packages</a>
       <a href="#">Car & Bus Rental</a>
-      <a href="#">About Us</a>
+      <a href="about-us.php">About Us</a>
       <a href="#">Contact</a>
     </div>
   </div>
