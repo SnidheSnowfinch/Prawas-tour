@@ -13,10 +13,14 @@
 <body>
 
 
-  <div class="navbar">
+  <div class="navbar navbar-expand-lg" id="navbar">
     <div class="logo">
       <a href="index.php"><img src="bootstrap/images/Prawas_logo_round.png.png" alt="Logo" /></a>
     </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
     <div class="nav-links">
       <a href="#">Home</a>
       <a href="#">Group Tour Packages</a>
@@ -24,4 +28,5 @@
       <a href="about-us.php">About Us</a>
       <a href="#">Contact</a>
     </div>
+</div>
   </div>

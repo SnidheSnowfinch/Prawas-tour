@@ -200,6 +200,7 @@
         dots[index].classList.add('active');
     }
 </script>
+<script src="bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </body>
 

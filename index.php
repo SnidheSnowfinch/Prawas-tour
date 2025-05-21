@@ -143,7 +143,7 @@
                 <div class="inner-img"> <img src="bootstrap/images/sun-img.jpg" alt=""></div>
             </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12 image-top">
             <h4 class="highlight">About</h4>
             <h2 class="text-left">Group Tour Packages</h2>
             <p>Welcome to Prawas Tours and Travel, your trusted companion for discovering the diverse beauty of
@@ -227,13 +227,13 @@
 <section class="container-div">
     <div>
         <div class="row">
-            <div class="col-lg-8 col-md-6 col-sm-12">
+            <div class="col-lg-8 col-md-6 col-sm-12 mt-2">
                 <h3>Deals & Discounts</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum
                     elit
                     egestas, libero dolor auctor tellus, eu consectetur neque elit quis.</p>
                 <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="col-lg-6 col-md-6 col-sm-12 mt-3">
                         <div class="deal-div">
                             <img src="bootstrap/images/deal.jpg" alt="">
                             <div class="deal-inner-div">
@@ -247,19 +247,24 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="col-lg-6 col-md-6 col-sm-12 mt-3">
                         <div class="deal-div">
                             <img src="bootstrap/images/deal.jpg" alt="">
-                            <div>
-
+                            <div class="deal-inner-div">
+                                <div>
+                                    <label for="">7.7 Superb</label>
+                                    <p>Valley of the Kings</p>
+                                </div>
+                                <div>
+                                    <p><label for="" class="strike">Rs. 9500</label> Rs. 7500</p>
+                                </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
                 <div class="review-section">
 
                     <div class="review-card">

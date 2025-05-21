@@ -32,12 +32,29 @@
 
             <label>Price Range</label>
             <input type="range" min="1000" max="25000" step="500" value="7500">
+            <div class="form-check d-flex mt-2">
+                                <input class="form-check-input" required type="checkbox" id="checkbox1">
+                                <label class="form-check-label mx-2" for="checkbox1">recommended</label>
+                            </div>
+                            <div class="form-check d-flex mt-2">
+                                <input class="form-check-input" required type="checkbox" id="checkbox1">
+                                <label class="form-check-label mx-2" for="checkbox1">Budget Friendly</label>
+                            </div>
+                            <div class="form-check d-flex mt-2">
+                                <input class="form-check-input" required type="checkbox" id="checkbox1">
+                                <label class="form-check-label mx-2" for="checkbox1">Beaches</label>
+                            </div>
+                            <div class="form-check d-flex mt-2">
+                                <input class="form-check-input" required type="checkbox" id="checkbox1">
+                                <label class="form-check-label mx-2" for="checkbox1">Romantic</label>
+                            </div>
+                            <div class="form-check d-flex mt-2">
+                                <input class="form-check-input" required type="checkbox" id="checkbox1">
+                                <label class="form-check-label mx-2" for="checkbox1">Group Tours</label>
+                                </label>
+                            </div>
 
-            <span><input type="checkbox"> Recommended</span>
-            <label><input type="checkbox"> Budget Friendly</label>
-            <label><input type="checkbox"> Beaches</label>
-            <label><input type="checkbox"> Romantic</label>
-            <label><input type="checkbox"> Group Tours</label>
+                            
 
             <button class="search-button">SEARCH</button>
         </div>
