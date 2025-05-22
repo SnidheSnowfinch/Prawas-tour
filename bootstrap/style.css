@@ -59,6 +59,8 @@ header {
 
 
 header p,.header-about p,.header-package p {
+  animation: fadeInUp 1s ease-out;
+
   font-size: 20px;
 }
 
@@ -70,6 +72,7 @@ header p,.header-about p,.header-package p {
 }
 
 .search-bar p{
+  animation: none;
   font-weight: 400;
   margin: 0;
 
@@ -169,13 +172,15 @@ header p,.header-about p,.header-package p {
 }
 
 .card {
-  flex: 0 0 auto;
-  width: 300px;
-  background: #fff;
-  border-radius: 0;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  overflow: hidden;
-}
+  display: flex
+  ;
+      flex: 0 0 auto;
+      width: 300px;
+      background: #fff;
+      border-radius: 0;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      justify-content: space-around;}
 
 .card img {
   width: 100%;
@@ -471,10 +476,10 @@ header p,.header-about p,.header-package p {
 }
 
 .review-card h3 {
-  font-weight: 400;
+  font-weight: 500;
   color: #555555;
   margin: 0;
-  font-size: 26px;
+  font-size: 19px;
 }
 
 .stars {
@@ -726,6 +731,7 @@ header p,.header-about p,.header-package p {
 }
 
 .quote {
+  text-align: center !important;
   font-style: italic;
   color: #555;
   margin-bottom: 20px;
@@ -754,7 +760,15 @@ header p,.header-about p,.header-package p {
   display: inline-block;
   cursor: pointer;
 }
-
+@keyframes fadeInUp {
+  0% {
+  opacity: 0;
+  transform: translateY(20px);
+  }
+  100% {
+  opacity: 1;
+  transform: translateY(0);
+  }}
 .dot.active {
   background-color: #FA9521;
 }
@@ -876,6 +890,10 @@ footer {
   color: #ccc;
   font-size: 14px;
   cursor: pointer;
+}
+header h1,.header-about h1,.header-package h1 {
+  animation: fadeInUp 1s ease-out;
+
 }
 
 @media (max-width: 768px) {
@@ -1097,6 +1115,7 @@ footer {
   
   }
   header h1,.header-about h1,.header-package h1 {
+    
     text-transform: capitalize;
     font-weight: 400;
     width: 500px;
@@ -1558,4 +1577,31 @@ footer {
     padding: 100px 160px 60px;
   }
 
+}
+.price{
+  margin-bottom: 0 !important;
+  min-width: 70px;
+}
+.d-card-flex-inline {
+  display: flex !important
+;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.review-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.5em;
+  max-height: 7.5em;
+  cursor: pointer;
+  transition: max-height 0.3s ease;
+}
+
+.review-text.expanded {
+  -webkit-line-clamp: unset;
+  max-height: none;
+  overflow: visible;
 }

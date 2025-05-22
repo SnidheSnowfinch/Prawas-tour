@@ -7,19 +7,14 @@
 </div>
 <div class="container-div ">
     <h2>Traveling Together</h2>
-    <p class="container-p">Lorem ipsum dolor sit amet, consectetur. Proin gravida nibh vel velit auctor aliquet. Aenean
-        sollicitudin, lorem quis bibendum
-        auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
     <div><img src="bootstrap/images/back-img-3.jpg" alt="" class="abt-img"></div>
 </div>
 <div class="container-div pt-0">
     <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
             <h2 class="text-left">About Us</h2>
-            <p class="para-left">Lorem ipsum dolor sit amee fugiat beatae velit soluta sequi recusandae exercitationem,
-                doloremque corporis esse debitis nihil!</p>
-            <p class="para-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti eveniet perspiciatis
-                fugiat! Eligendi nobis asperiores quos iusto, temporibus adipisci lullam expedita dolores vero.</p>
+            <p class="para-left">Welcome to Prawas Tours and Travel, where every journey is crafted with over 50 years of combined expertise in the travel industry. Prawas Tours and Travels Founded in January 2023, and is driven by a team of seasoned professionals with diverse backgrounds in renowned travel agencies.
+            We specialize in booking tickets for buses, trains, or flights, managing logistics and cargo shipments, arranging car and bus rentals, or curating memorable tours.</p>
 
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12">
@@ -71,27 +66,27 @@
 </div>
 <div class="gray-div container-div">
     <div class="testimonial-section ">
-        <h2>Happy Customers</h2>
+        <h2>Meet Our Pillars Of Excellence</h2>
 
         <div class="testimonial active">
-            <p class="quote">"It is always sad to leave a place to which one knows one will never return. Such are
-                the melancholies du voyage; perhaps they are one of the most rewarding things about traveling."</p>
-            <div class="author">Arun Das Kumar</div>
-            <div class="location">Flaubert in Egypt</div>
+        <div class="author">Mr. Sandip More</div>
+
+            <p class="quote mt-2">With 22 years of experience in the travel industry, Mr. Sandip More brings invaluable expertise and leadership to Prawas Tours and Travel. With a focus on providing top-notch car and bus rental services, he ensures that you have access to reliable transportation options tailored to your specific needs, making your journey comfortable, convenient, and affordable. He ensures that every aspect of your travel itinerary is meticulously planned and executed to perfection.</p>
+            <!-- <div class="location">Flaubert in Egypt</div> -->
         </div>
 
         <div class="testimonial">
-            <p class="quote">"A wonderful experience! The planning, service, and destinations were top-notch. Highly
-                recommend for all travelers."</p>
-            <div class="author">Neha Ramesh</div>
-            <div class="location">Trip to Bali</div>
+        <div class="author">Shyam Jagdale and Prasad Gaikwad</div>
+
+            <p class="quote mt-2">With a passion for travel and a wealth of knowledge in logistics and cargo management, Shyam & Prasad oversee the seamless transportation of goods, ensuring timely delivery and customer satisfaction.</p>
+           
         </div>
 
         <div class="testimonial">
-            <p class="quote">"Absolutely loved the scenic beauty and care taken during the trip. The support team
-                was very responsive and helpful."</p>
-            <div class="author">David Mathews</div>
-            <div class="location">European Cruise</div>
+        <div class="author">Santosh More</div>
+
+            <p class="quote mt-2">"With diverse industrial experience, Santosh More specializes in strategic partnerships, planning, and legal matters. With his expertise, he navigates collaborations, negotiates partnerships, and ensures legal compliance, driving the company’s growth and success"</p>
+         
         </div>
 
         <div class="dots">

@@ -40,22 +40,20 @@
 
 <section class="container-div margin-top">
     <h2>Group Tour Packages</h2>
-    <p class="container-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae
-        condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc. Cras elementum pretium.
+    <p class="container-p">Modern & Beautiful
     </p>
     <div class="carousel-container">
         <button class="nav-btn prev-btn" onclick="scrollCards(-1)">❮</button>
         <div class="tour-cards" id="cardContainer">
             <!-- Repeatable Card -->
             <div class="card">
-                <img src="bootstrap/images/tour-img-1.png" />
+                <img src="bootstrap/images/tour01.png" />
                 <div class="card-content">
-                    <div class="d-card-flex">
-                        <h3>Diveagar – Dapoli – Kelshi</h3>
-                        <h3 class="price">₹ 7500</h3>
+                    <div class="d-card-flex-inline">
+                        <h3>Ashtavinayak Darshan</h3>
+                        <h3 class="price">₹ 2590</h3>
                     </div>
                     <p>6.3 Good</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                     <div class="d-card-flex">
                         <p>Every Friday (3 Days / 2 Night)</p>
                         <p>2 Adults</p>
@@ -69,14 +67,13 @@
             </div>
 
             <div class="card">
-                <img src="bootstrap/images/tour-img-2.png" />
+                <img src="bootstrap/images/tour02.png" />
                 <div class="card-content">
-                    <div class="d-card-flex">
-                        <h3>Diveagar – Dapoli – Kelshi</h3>
-                        <h3 class="price">₹ 7500</h3>
+                    <div class="d-card-flex-inline">
+                        <h3>Akara Maruti – Kolhapur Narasoba Wadi</h3>
+                        <h3 class="price">₹ 4990</h3>
                     </div>
                     <p>6.3 Good</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                     <div class="d-card-flex">
                         <p>Every Friday (3 Days / 2 Night)</p>
                         <p>2 Adults</p>
@@ -90,14 +87,13 @@
             </div>
 
             <div class="card">
-                <img src="bootstrap/images/tour-img-3.png" />
+                <img src="bootstrap/images/tour03.png" />
                 <div class="card-content">
-                    <div class="d-card-flex">
-                        <h3>Diveagar – Dapoli – Kelshi</h3>
-                        <h3 class="price">₹ 7500</h3>
+                    <div class="d-card-flex-inline">
+                        <h3>Alibag - Nagaon - Murud Janjira</h3>
+                        <h3 class="price">₹ 4990</h3>
                     </div>
                     <p>6.3 Good</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                     <div class="d-card-flex">
                         <p>Every Friday (3 Days / 2 Night)</p>
                         <p>2 Adults</p>
@@ -110,14 +106,13 @@
                 </div>
             </div>
             <div class="card">
-                <img src="bootstrap/images/tour-img-1.png" />
+                <img src="bootstrap/images/tour04.png" />
                 <div class="card-content">
-                    <div class="d-card-flex">
-                        <h3>Diveagar – Dapoli – Kelshi</h3>
-                        <h3 class="price">₹ 7500</h3>
+                    <div class="d-card-flex-inline">
+                        <h3>Aurangabad - Ajanta - Ellora</h3>
+                        <h3 class="price">₹ 4990</h3>
                     </div>
                     <p>6.3 Good</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                     <div class="d-card-flex">
                         <p>Every Friday (3 Days / 2 Night)</p>
                         <p>2 Adults</p>
@@ -129,7 +124,236 @@
                     </div>
                 </div>
             </div>
+            <div class="card">
+                <img src="bootstrap/images/tour05.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Diveagar – Dapoli - Kelshi</h3>
+                        <h3 class="price">₹ 7500</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
 
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour06.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Ganapatipule – Guhagar</h3>
+                        <h3 class="price">₹ 7500</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour07.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Mahabaleshwar – Pratapgad</h3>
+                        <h3 class="price">₹ 4990</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+         
+            <div class="card">
+                <img src="bootstrap/images/tour08.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Panch Jyotirling</h3>
+                        <h3 class="price">₹ 7999</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour09.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Bhimashankar</h3>
+                        <h3 class="price">₹ 999</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour010.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Tarkarli –Malvan- Sindhudurga</h3>
+                        <h3 class="price">₹ 7990</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour011.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Pune Darshan</h3>
+                        <h3 class="price">₹ 999</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour012.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Shri Shani Shingnapur - Shirdi</h3>
+                        <h3 class="price">₹ 1111</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour013.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Goa Awaits Let's Explore
+                        South Goa North Goa Sidesing</h3>
+                        <h3 class="price">₹  11500</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour014.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Omkareshwar - Indore - Ujjain</h3>
+                        <h3 class="price">₹  11500</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour015.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Pandharpur - Akkalkot - Tuljapur</h3>
+                        <h3 class="price">₹ 4990</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="bootstrap/images/tour016.png" />
+                <div class="card-content">
+                    <div class="d-card-flex-inline">
+                        <h3>Shimla - Kullu - Manali</h3>
+                        <h3 class="price">₹  19990</h3>
+                    </div>
+                    <p>6.3 Good</p>
+                    <div class="d-card-flex">
+                        <p>Every Friday (3 Days / 2 Night)</p>
+                        <p>2 Adults</p>
+                    </div>
+
+                    <div class="buttons">
+                        <button class="card-button">Trip Details</button>
+                        <button class="card-button-fill">Book</button>
+                    </div>
+                </div>
+            </div>
             <!-- Add more cards here if needed -->
         </div>
         <button class="nav-btn next-btn" onclick="scrollCards(1)">❯</button>
@@ -139,16 +363,14 @@
     <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
             <div class="left-img">
-                <img class="left-img-img" src="bootstrap/images/sun-img.jpg" alt="">
-                <div class="inner-img"> <img src="bootstrap/images/sun-img.jpg" alt=""></div>
+                <img class="left-img-img" src="bootstrap/images/about_1.png" alt="">
+                <div class="inner-img"> <img src="bootstrap/images/about_1.png" alt=""></div>
             </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 image-top">
             <h4 class="highlight">About</h4>
-            <h2 class="text-left">Group Tour Packages</h2>
-            <p>Welcome to Prawas Tours and Travel, your trusted companion for discovering the diverse beauty of
-                Maharashtra. From sacred pilgrimages to breathtaking tourist destinations, we offer curated tours that
-                cater to every traveler’s preferences.</p>
+            <h2 class="text-left">PRAWAS TOURS</h2>
+            <p>Welcome to Prawas Tours and Travel, your trusted companion for discovering the diverse beauty of Maharashtra. From sacred pilgrimages to breathtaking tourist destinations, we offer curated tours that cater to every traveler’s preferences.</p>
             <div class="align-item"><img class="me-2" src="bootstrap/images/tick .png" alt="">
                 <p class="m-0">Wide Range of Destinations.</p>
             </div>
@@ -167,19 +389,19 @@
                     </p>
                 </div>
                 <div>
-                    <h1>600+</h1>
+                    <h1>20+</h1>
                     <p>
                         Happy Travelers
                     </p>
                 </div>
                 <div>
-                    <h1>600+</h1>
+                    <h1>5+</h1>
                     <p>
                         Happy Travelers
                     </p>
                 </div>
                 <div>
-                    <h1>600+</h1>
+                    <h1>15+</h1>
                     <p>
                         Happy Travelers
                     </p>
@@ -271,12 +493,11 @@
                         <div class="top-title">Top Reviews</div>
 
 
-                        <h3 id="reviewer-name">Dipanshu Sharma</h3>
+                        <h3 id="reviewer-name">Dr Manisha Pathak  Mr. Bhushan Pathak
+                        Vadodara</h3>
                         <div class="stars" id="review-stars">★★★★★</div>
                         <div class="review-text" id="review-text">
-                            It was a very well organised trip. Good timing, good food and very excellent Operator Kaka.
-                            The driver made our journey comfortable. Overall a very comfortable and excellent trip.
-                        </div>
+                        Our Ashtavinayak Ganpati and Bhimashankar Jyotirlinga trip was organised very well..... Tour plan, commute vehicle - Ertiga car, Hotel stay was very comfortable, luxurious and joyful experience Food arrangement were excellent - Yummy Our companian - tour guide driver Mr . Shivaji Pawar was excellent in his services Made us feel at home Our 3 days tour was wonderful experience It has created life time memories 😍 We would like to thank entire team for excellent services 🙏</div>
                         <div class="reviewer">
                             <img id="reviewer-img" src="bootstrap/images/profile.jpg" alt="Reviewer">
                             <span id="reviewer-name-footer">Dipanshu Sharma</span>
@@ -317,7 +538,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -335,7 +555,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -353,7 +572,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -370,7 +588,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -395,7 +612,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -413,7 +629,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -430,7 +645,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -446,7 +660,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -468,7 +681,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -484,7 +696,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -501,7 +712,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -519,7 +729,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -542,7 +751,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
@@ -559,7 +767,6 @@
                             <h3 class="price">₹ 7500</h3>
                         </div>
                         <p>6.3 Good</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus…</p>
                         <div class="d-card-flex">
                             <p>Every Friday (3 Days / 2 Night)</p>
                             <p>2 Adults</p>
