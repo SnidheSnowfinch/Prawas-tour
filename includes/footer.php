@@ -242,6 +242,12 @@
           testimonials[index].classList.add('active');
           dots[index].classList.add('active');
       }
+      function showTab(event, tabId) {
+      document.querySelectorAll('.detail-tab').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      event.target.classList.add('active');
+      document.getElementById(tabId).classList.add('active');
+    }
   </script>
   <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
   
