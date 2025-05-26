@@ -38,7 +38,7 @@
     </div>
 </header>
 
-<section class="container-div margin-top">
+<section class="container-div margin-top fade-in-on-scroll">
     <h2>Group Tour Packages</h2>
     <p class="container-p">Modern & Beautiful
     </p>
@@ -359,7 +359,7 @@
         <button class="nav-btn next-btn" onclick="scrollCards(1)">❯</button>
     </div>
 </section>
-<section class="container-div ">
+<section class="container-div fade-in-on-scroll">
     <div class="row">
         <div class="col-lg-5 col-md-6 col-sm-12">
             <div class="left-img">
@@ -416,7 +416,7 @@
     </div>
 
 </section>
-<section class="container-div gray-div margin-top">
+<section class="container-div gray-div margin-top fade-in-on-scroll">
     <h2>Why choose Prawas Tours ?</h2>
     <p class="container-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae
         condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc. Cras elementum pretium.
@@ -448,7 +448,7 @@
 
     </div>
 </section>
-<section class="container-div">
+<section class="container-div fade-in-on-scroll">
     <div>
         <div class="row">
             <div class="col-lg-8 col-md-6 col-sm-12 mt-2">
@@ -520,7 +520,7 @@
             </div>
         </div>
 </section>
-<section class="container-div gray-div">
+<section class="container-div gray-div fade-in-on-scroll">
     <h2>Popular Destinations</h2>
     <p class="container-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae
         condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc. Cras elementum pretium.
@@ -535,7 +535,7 @@
         <button class="nav-btn prev-btn" onclick="scrollCardsDest(-1)">❮</button>
         <div id="all" class="cardtTab-content active">
 
-            <div class="tour-cards" id="DestContainer">
+            <div class="tour-cards DestContainer">
                 <!-- Repeatable Card -->
                 <div class="card">
                     <img src="bootstrap/images/tour-img-1.png" />
@@ -544,11 +544,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                       
 
 
                     </div>
@@ -561,11 +557,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                        
 
 
                     </div>
@@ -578,12 +570,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
-
+                       
 
                     </div>
                 </div>
@@ -594,11 +581,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                       
 
                     </div>
                 </div>
@@ -607,7 +590,7 @@
             </div>
         </div>
         <div id="budget" class="cardtTab-content">
-            <div class="tour-cards" id="DestContainer">
+            <div class="tour-cards DestContainer">
                 <!-- Repeatable Card -->
 
 
@@ -618,11 +601,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                       
 
 
                     </div>
@@ -635,12 +614,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
-
+                      
 
                     </div>
                 </div>
@@ -651,12 +625,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
-
+                       
                     </div>
                 </div>
                 <div class="card">
@@ -666,11 +635,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                      
 
 
                     </div>
@@ -679,7 +644,7 @@
             </div>
         </div>
         <div id="escorted" class="cardtTab-content">
-            <div class="tour-cards" id="DestContainer">
+            <div class="tour-cards DestContainer">
                 <div class="card">
                     <img src="bootstrap/images/tour-img-1.png" />
                     <div class="card-content">
@@ -687,11 +652,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                       
 
                     </div>
                 </div>
@@ -702,11 +663,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                      
 
 
                     </div>
@@ -718,12 +675,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
-
+                       
 
                     </div>
                 </div>
@@ -735,11 +687,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                      
 
 
                     </div>
@@ -748,7 +696,7 @@
         </div>
 
         <div id="recommended" class="cardtTab-content">
-            <div class="tour-cards" id="DestContainer">
+            <div class="tour-cards DestContainer">
 
                 <div class="card">
                     <img src="bootstrap/images/tour-img-3.png" />
@@ -757,11 +705,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
+                      
 
 
                     </div>
@@ -773,12 +717,7 @@
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
                         </div>
-                        <p>6.3 Good</p>
-                        <div class="d-card-flex">
-                            <p>Every Friday (3 Days / 2 Night)</p>
-                            <p>2 Adults</p>
-                        </div>
-
+                        
                     </div>
                 </div>
             </div>

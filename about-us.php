@@ -9,7 +9,7 @@
     <h2>Traveling Together</h2>
     <div><img src="bootstrap/images/back-img-3.jpg" alt="" class="abt-img"></div>
 </div>
-<div class="container-div pt-0">
+<div class="container-div pt-0 fade-in-on-scroll">
     <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
             <h2 class="text-left">About Us</h2>
@@ -64,7 +64,7 @@
         </div>
     </div>
 </div>
-<div class="gray-div container-div">
+<div class="gray-div container-div fade-in-on-scroll">
     <div class="testimonial-section ">
         <h2>Meet Our Pillars Of Excellence</h2>
 
@@ -100,10 +100,10 @@
 
 
 </div>
-<section>
+<section class="fade-in-on-scroll">
     <img class="video" src="bootstrap/images/video.jpg" alt="">
 </section>
-<div class="container-div ">
+<div class="container-div fade-in-on-scroll">
     <div class="fecility-div">
         <div class="fecility-inner-div">
             <div> <img src="bootstrap/images/calender-icon.png" alt=""></div>

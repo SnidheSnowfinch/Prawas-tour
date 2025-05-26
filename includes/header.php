@@ -22,11 +22,35 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
     <div class="nav-links">
-      <a href="#">Home</a>
-      <a href="#">Group Tour Packages</a>
-      <a href="#">Car & Bus Rental</a>
-      <a href="about-us.php">About Us</a>
-      <a href="#">Contact</a>
+    <div class="nav-item"> <a class="nav-link active" href="index.php">Home</a></div>
+
+     
+      <div class="nav-item">
+      <a href="#" class="nav-link">Group Tour Packages</a>
+      <div class="dropdown">
+        <a href="#">Mahabaleshwar – Pratapgad</a>
+        <a href="#">Panch Jyotirling</a>
+        <a href="#">Bhimashankar</a>
+        <a href="#">Tarkarli –Malvan–Sindhudurg</a>
+        <a href="#">Ajanta – Ellora – Aurangabad</a>
+        <a href="#">Kolhapur – Panhala</a>
+        <!-- Add more as needed -->
+      </div>
+    </div>
+    <div class="nav-item">
+    <a href="#" class="nav-link" >Car & Bus Rental</a>
+
+    </div>
+    <div class="nav-item">
+    <a href="about-us.php" class="nav-link">About Us</a>
+
+    </div>
+
+    <div class="nav-item">
+    <a href="contact-us.php" class="nav-link">Contact</a>
+
+    </div>
+
     </div>
 </div>
   </div>

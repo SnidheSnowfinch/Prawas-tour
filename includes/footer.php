@@ -26,9 +26,9 @@
       <div class="footer-section footer-contact">
         <h4>Contact</h4>
         <ul>
-          <li><i class="bi bi-telephone"></i> +91 8806082965 & +91 9561292863</li>
-          <li><i class="bi bi-envelope"></i> prawastours@gmail.com</li>
-          <li><i class="bi bi-alt"></i> Shop No.1, Kharade Building, Pune-Nashik Road, Near Nulife Hospital,<br> Gavthan Vasti, Bhosari, Pune – 411039</li>
+          <li><i class="bi bi-telephone-fill"></i> +91 8806082965 & +91 9561292863</li>
+          <li><i class="bi bi-envelope-fill"></i> prawastours@gmail.com</li>
+          <li><i class="bi bi-geo-alt-fill"></i> Shop No.1, Kharade Building, Pune-Nashik Road, Near Nulife Hospital,<br> Gavthan Vasti, Bhosari, Pune – 411039</li>
         </ul>
       </div>
   
@@ -75,14 +75,32 @@
           document.getElementById(cardtTabId).classList.add('active');
       }
   
+      // function scrollCardsDest(direction) {
+      //     const container = document.getElementById("DestContainer");
+      //     const scrollAmount = 330; // adjust based on card width
+      //     container.scrollBy({
+      //         left: direction * scrollAmount,
+      //         behavior: "smooth"
+      //     });
+      // }
       function scrollCardsDest(direction) {
-          const container = document.getElementById("DestContainer");
-          const scrollAmount = 330; // adjust based on card width
-          container.scrollBy({
-              left: direction * scrollAmount,
-              behavior: "smooth"
-          });
-      }
+    // Get currently visible tab content
+    const activeTabContent = document.querySelector('.cardtTab-content.active');
+
+    if (activeTabContent) {
+        // Find DestContainer (with class instead of id)
+        const container = activeTabContent.querySelector('.DestContainer');
+        const scrollAmount = 330;
+
+        if (container) {
+            container.scrollBy({
+                left: direction * scrollAmount,
+                behavior: 'smooth'
+            });
+        }
+    }
+}
+
       function scrollfactDest(direction) {
           const container = document.getElementById("fact-div");
           const scrollAmount = 150; // adjust based on card width
@@ -178,11 +196,13 @@
       }
       document.addEventListener("DOMContentLoaded", function () {
     const reviewText = document.getElementById("review-text");
+    if(reviewText){
 
     reviewText.addEventListener("click", function () {
       reviewText.classList.toggle("expanded");
-    });
+    });}
   });
+  document.addEventListener("DOMContentLoaded", () => {
       const tours = [
           { name: "Bali & Indonesia Tour", price: 7500, days: 10, rating: 6.3, image: "bootstrap/images/tour-img-2.png", date: "2025-06-01" },
           { name: "Maldives Getaway", price: 12500, days: 7, rating: 8.1, image: "bootstrap/images/tour-img-3.png", date: "2025-04-15" },
@@ -193,6 +213,7 @@
   
       function renderTours(list) {
           const container = document.getElementById("tour-list");
+          if(container){
           container.innerHTML = "";
           list.forEach(tour => {
               container.innerHTML += `
@@ -208,7 +229,7 @@
                 </div>
               </div>
             </div>`;
-          });
+          });}
       }
   
       function sortTours(method) {
@@ -229,7 +250,9 @@
           });
       });
   
-      sortTours("date");
+      sortTours("date");});
+
+
       function showTestimonial(index) {
           const testimonials = document.querySelectorAll('.testimonial');
           const dots = document.querySelectorAll('.dot');
@@ -248,6 +271,26 @@
       event.target.classList.add('active');
       document.getElementById(tabId).classList.add('active');
     }
+
+    document.addEventListener("DOMContentLoaded", () => {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      console.log("Observed:", entry.target); // Debug line
+      if (entry.isIntersecting) {
+        console.log("Showing:", entry.target); // Debug line
+        entry.target.classList.add('show');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {
+    threshold: 0.1
+  });
+
+  document.querySelectorAll('.fade-in-on-scroll').forEach(el => {
+    observer.observe(el);
+  });
+});
+
   </script>
   <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
   

@@ -6,7 +6,7 @@
         <p>Home / Bali & Indonesia Tour</p>
     </div>
 </div>
-<div class="container-div">
+<div class="container-div fade-in-on-scroll">
 
 
 

@@ -12,10 +12,12 @@
 
         <div>
             <div class="tabs">
-                <button class="tab-btn active" data-sort="date">📅 Date</button>
-                <button class="tab-btn" data-sort="low">⬆️ Price Low to High</button>
-                <button class="tab-btn" data-sort="high">⬇️ Price High to Low</button>
-                <button class="tab-btn" data-sort="name">🔤 Name</button>
+                <button class="tab-btn active" data-sort="date"><i class="bi bi-calendar"></i>
+                Date</button>
+                <button class="tab-btn" data-sort="low"><i class="bi bi-arrow-up"></i> Price Low to High</button>
+                <button class="tab-btn" data-sort="high"><i class="bi bi-arrow-down"></i> Price High to Low</button>
+                <button class="tab-btn" data-sort="name"><i class="bi bi-alphabet"></i> 
+                Name</button>
 
             </div>
             <div class="main-content" id="tour-list">
@@ -69,7 +71,7 @@
     </div>
     </div>
 </div>
-<section class="container-div gray-div">
+<section class="container-div gray-div fade-in-on-scroll">
     <h2>Popular Destinations</h2>
     <p class="container-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae
         condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc. Cras elementum pretium.
