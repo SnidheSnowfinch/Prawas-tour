@@ -22,8 +22,8 @@
 
                 <div class="progress-bar">
                     <div class="progress-label">
-                        <span>Fast Booking</span>
-                        <span>62%</span>
+                        <span>Accommodation</span>
+                        <span>85%</span>
                     </div>
                     <div class="bar-bg">
                         <div class="bar-fill fast-booking"></div>
@@ -32,8 +32,8 @@
 
                 <div class="progress-bar">
                     <div class="progress-label">
-                        <span>Value for Money</span>
-                        <span>80%</span>
+                        <span>Transport</span>
+                        <span>90%</span>
                     </div>
                     <div class="bar-bg">
                         <div class="bar-fill value"></div>
@@ -42,8 +42,8 @@
 
                 <div class="progress-bar">
                     <div class="progress-label">
-                        <span>Beautiful Places</span>
-                        <span>74%</span>
+                        <span>Comfort</span>
+                        <span>100%</span>
                     </div>
                     <div class="bar-bg">
                         <div class="bar-fill beauty"></div>
@@ -52,8 +52,8 @@
 
                 <div class="progress-bar">
                     <div class="progress-label">
-                        <span>Support Team</span>
-                        <span>59%</span>
+                        <span>Hospitality</span>
+                        <span>88%</span>
                     </div>
                     <div class="bar-bg">
                         <div class="bar-fill support"></div>

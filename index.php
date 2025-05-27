@@ -60,7 +60,7 @@
                     </div>
 
                     <div class="buttons">
-                        <button class="card-button">Trip Details</button>
+                        <a href="tour-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
                 </div>
@@ -537,56 +537,54 @@
 
             <div class="tour-cards DestContainer">
                 <!-- Repeatable Card -->
-                <div class="card">
-                    <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                        </div>
+                <div class="card-popular">
+                <img src="bootstrap/images/tour01.png" />                    <div class="card-content-popular">
+                       
+                <h3>Ashtavinayak Darshan</h3>
+                <h3 class="price">₹ 2590</h3>
+                      
                        
 
 
                     </div>
                 </div>
 
-                <div class="card">
-                    <img src="bootstrap/images/tour-img-2.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                        </div>
-                        
-
-
-                    </div>
-                </div>
-
-                <div class="card">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                        </div>
+                <div class="card-popular">
+                <img src="bootstrap/images/tour04.png" />
+                    <div class="card-content-popular">
+                       
+                    <h3>Aurangabad - Ajanta - Ellora</h3>
+                    <h3 class="price">₹ 4990</h3>                      
                        
 
+
                     </div>
                 </div>
-                <div class="card">
-                    <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                        </div>
+
+                <div class="card-popular">
+                <img src="bootstrap/images/tour07.png" />
+                    <div class="card-content-popular">
+                       
+                    <h3>Mahabaleshwar – Pratapgad</h3>
+                    <h3 class="price">₹ 4990</h3>                      
                        
 
+
                     </div>
                 </div>
+                <div class="card-popular">
+                <img src="bootstrap/images/tour05.png" />
+                    <div class="card-content-popular">
+                       
+                    <h3>Diveagar – Dapoli - Kelshi</h3>
+                    <h3 class="price">₹ 7500</h3>                      
+                       
 
-                <!-- Add more cards here if needed -->
+
+                    </div>
+               
+                </div>
+
             </div>
         </div>
         <div id="budget" class="cardtTab-content">
@@ -594,48 +592,50 @@
                 <!-- Repeatable Card -->
 
 
-                <div class="card">
+                <div class="card-popular">
+                    <img src="bootstrap/images/tour-img-3.png" />
+                    <div class="card-content-popular">
+                       
+                            <h3>Diveagar – Dapoli – Kelshi</h3>
+                            <h3 class="price">₹ 7500</h3>
+                      
+                       
+
+
+                    </div>
+                </div>
+                <div class="card-popular">
                     <img src="bootstrap/images/tour-img-2.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
+                    <div class="card-content-popular">
+                       
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
-                        </div>
+                      
                        
 
 
                     </div>
                 </div>
-
-                <div class="card">
+                <div class="card-popular">
                     <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
+                    <div class="card-content-popular">
+                       
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
-                        </div>
                       
+                       
+
 
                     </div>
                 </div>
-                <div class="card">
+                <div class="card-popular">
                     <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                        </div>
+                    <div class="card-content-popular">
                        
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
-                        </div>
                       
+                       
 
 
                     </div>
@@ -645,49 +645,50 @@
         </div>
         <div id="escorted" class="cardtTab-content">
             <div class="tour-cards DestContainer">
-                <div class="card">
+            <div class="card-popular">
+                    <img src="bootstrap/images/tour-img-3.png" />
+                    <div class="card-content-popular">
+                       
+                            <h3>Diveagar – Dapoli – Kelshi</h3>
+                            <h3 class="price">₹ 7500</h3>
+                      
+                       
+
+
+                    </div>
+                </div>
+                <div class="card-popular">
                     <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
+                    <div class="card-content-popular">
+                       
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
-                        </div>
+                      
                        
 
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                        </div>
-                      
-
 
                     </div>
                 </div>
-                <div class="card">
+                <div class="card-popular">
                     <img src="bootstrap/images/tour-img-2.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
+                    <div class="card-content-popular">
+                       
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
-                        </div>
+                      
                        
+
 
                     </div>
                 </div>
-
-                <div class="card">
+                <div class="card-popular">
                     <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
+                    <div class="card-content-popular">
+                       
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
-                        </div>
                       
+                       
 
 
                     </div>
@@ -698,26 +699,16 @@
         <div id="recommended" class="cardtTab-content">
             <div class="tour-cards DestContainer">
 
-                <div class="card">
+            <div class="card-popular">
                     <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
+                    <div class="card-content-popular">
+                       
                             <h3>Diveagar – Dapoli – Kelshi</h3>
                             <h3 class="price">₹ 7500</h3>
-                        </div>
                       
+                       
 
 
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content">
-                        <div class="d-card-flex">
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                        </div>
-                        
                     </div>
                 </div>
             </div>
@@ -757,16 +748,16 @@
 
                 </div>
                 <div class="tooltip-box">
-                    <div class="tooltip-title">London</div>
-                    <div class="tooltip-text">“Big Ben” is not the<br>tower</div>
+                    <div class="tooltip-title">Japan</div>
+                    <div class="tooltip-text">Torii gates mark the entrance to sacred Shinto shrines.</div>
                 </div>
             </div>
             <div class="tooltip-container">
                 <div class="tooltip-icon"> <img src="bootstrap/images/icon-home-3.png" alt="">
                 </div>
                 <div class="tooltip-box">
-                    <div class="tooltip-title">London</div>
-                    <div class="tooltip-text">“Big Ben” is not the<br>tower</div>
+                    <div class="tooltip-title">India</div>
+                    <div class="tooltip-text">Elephants are a symbol of wisdom.</div>
                 </div>
             </div>
 
@@ -775,16 +766,16 @@
                 <div class="tooltip-icon"> <img src="bootstrap/images/icon-home-4.png" alt="">
                 </div>
                 <div class="tooltip-box">
-                    <div class="tooltip-title">London</div>
-                    <div class="tooltip-text">“Big Ben” is not the<br>tower</div>
+                    <div class="tooltip-title">USA</div>
+                    <div class="tooltip-text">"Statue of Liberty" is a gift from France</div>
                 </div>
             </div>
             <div class="tooltip-container">
                 <div class="tooltip-icon"> <img src="bootstrap/images/icon-home-5.png" alt="">
                 </div>
                 <div class="tooltip-box">
-                    <div class="tooltip-title">London</div>
-                    <div class="tooltip-text">“Big Ben” is not the<br>tower</div>
+                    <div class="tooltip-title">Mexico</div>
+                    <div class="tooltip-text">Sombreros are traditional wide-brimmed hats.</div>
                 </div>
             </div>
 
@@ -792,16 +783,16 @@
                 <div class="tooltip-icon"> <img src="bootstrap/images/icon-home-6.png" alt="">
                 </div>
                 <div class="tooltip-box">
-                    <div class="tooltip-title">London</div>
-                    <div class="tooltip-text">“Big Ben” is not the<br>tower</div>
+                    <div class="tooltip-title">Italy</div>
+                    <div class="tooltip-text">"Pisa" Famous for its unstable foundation.</div>
                 </div>
             </div>
             <div class="tooltip-container">
                 <div class="tooltip-icon"> <img src="bootstrap/images/icon-home-7.png" alt="">
                 </div>
                 <div class="tooltip-box">
-                    <div class="tooltip-title">London</div>
-                    <div class="tooltip-text">“Big Ben” is not the<br>tower</div>
+                    <div class="tooltip-title">San Francisco</div>
+                    <div class="tooltip-text">An iconic red suspension bridge </div>
                 </div>
             </div>
             <div class="tooltip-container">
@@ -816,13 +807,14 @@
                 <div class="tooltip-icon"> <img src="bootstrap/images/icon-home-2.png" alt="">
                 </div>
                 <div class="tooltip-box">
-                    <div class="tooltip-title">London</div>
-                    <div class="tooltip-text">“Big Ben” is not the<br>tower</div>
+                <div class="tooltip-title">Japan</div>
+                    <div class="tooltip-text">Torii gates mark the entrance to sacred Shinto shrines.</div>
                 </div>
             </div>
            
-            <button class="nav-btn next-btn" onclick="scrollfactDest(1)">❯</button>
         </div>
+        <button class="nav-btn next-btn" onclick="scrollfactDest(1)">❯</button>
+
 </section>
 
 <?php include 'includes/footer.php' ?>

@@ -84,11 +84,9 @@
       //     });
       // }
       function scrollCardsDest(direction) {
-    // Get currently visible tab content
     const activeTabContent = document.querySelector('.cardtTab-content.active');
 
     if (activeTabContent) {
-        // Find DestContainer (with class instead of id)
         const container = activeTabContent.querySelector('.DestContainer');
         const scrollAmount = 330;
 
@@ -290,7 +288,16 @@
     observer.observe(el);
   });
 });
+window.addEventListener('DOMContentLoaded', () => {
+      const bars = document.querySelectorAll('.review-progress-bar');
 
+      setTimeout(() => {
+        bars.forEach(bar => {
+          const value = bar.getAttribute('data-value');
+          bar.style.width = value + '%';
+        });
+      }, 100); // Small delay ensures animation
+    });
   </script>
   <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
   

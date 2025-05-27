@@ -239,7 +239,7 @@ header p,.header-about p,.header-package p {
 
 .card-button {
   text-transform: uppercase;
-
+text-align: center;
   background: white;
   flex: 1;
   margin: 0 5px;
@@ -329,7 +329,7 @@ header p,.header-about p,.header-package p {
   
 
   .fact-div {
-    width: 220px;
+    width: 315px;
     margin: 40px;}
   .fact-div img {
     width: 90px;
@@ -554,14 +554,28 @@ header p,.header-about p,.header-package p {
 
 
 .tabs button {
+  font-weight: 500;
   margin: 0px 10px;
   text-align: center;
   background: none;
   border: none;
   padding: 10px 6px 10px 6px;
     cursor: pointer;
-  font-size: 14px;
+  font-size: 16px;
   border-bottom: 3px solid transparent;
+}
+.tab-inner-img{
+  transition: transform 0.3s;
+
+  margin-bottom: 20px;
+  object-fit: cover;
+  height: 250px;
+  border-radius: 10px;
+  width: 100%;
+}
+.tab-inner-img:hover{
+  transform: translateY(-10px);
+
 }
 
 .tabs button.active {
@@ -1815,12 +1829,28 @@ header h1,.header-about h1,.header-package h1 {
   border-bottom: 1px solid #eee;
   padding: 18px 0;
 }
+.price-back{
+  color: #c37e21;
+  padding: 20px 10px;
+  font-size: 18px;
+  background: #ffe99978;
+}
+.price-back p{
+  text-align: left;
+    font-size: 17px;
+    margin-bottom: 20px;
+  font-weight: 500;
+  color: #c37e21;
+}
 
 .include {
+  margin-right: 5px;
   color: green !important;
 }
 
 .not-include {
+  margin-right: 5px;
+
   color: red !important;
 }
 
@@ -1937,7 +1967,7 @@ header h1,.header-about h1,.header-package h1 {
 /* Dropdown */
 .dropdown {
   position: absolute;
-  top: 110%;
+  top: 100%;
   left: 0;
   background: white;
   border-radius: 5px;
@@ -1980,4 +2010,87 @@ header h1,.header-about h1,.header-package h1 {
 .fade-in-on-scroll.show {
   opacity: 1;
   transform: translateY(0);
+}
+.tab-div{
+  color: #cb822e;
+  font-weight: 700;
+  font-size: 18px !important;
+  padding: 10px 13px;
+  background: #ffe99978;
+}
+.tab-area p{
+  margin-bottom: 8px !important;
+}
+.tab-area{
+  padding: 10px;
+}
+.review-div{
+  text-align: center;
+    width: 200px;
+}
+.review-div h2{
+  color: #fa9521;
+  font-size: 53px;
+}
+.review-div span{
+  font-weight: 600 !important;
+}
+a {
+  text-decoration: none;
+}
+.review-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.review-progress-container {
+  width: 100%;
+  height: 10px;
+  background-color: #eee;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.review-progress-bar {
+  height: 100%;
+  width: 0%; /* Start from 0 for animation */
+  background-color: #FFA500;
+  transition: width 1s ease-in-out;
+  border-radius: 10px;
+}
+.card-popular{
+  flex: 0 0 auto;
+    position: relative;
+    width: 300px;
+
+}
+.card-popular img{
+  width: 100%;
+  object-fit: cover;
+height: 200px;
+}
+.card-popular::before{
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 0.6) 10%, rgba(0, 0, 0, 0.0) 100%);
+  bottom: 0px;
+  right: 0px;
+  z-index: 1;
+}
+.card-content-popular{
+  z-index: 10;
+  left: 20px;
+  font-size: 18px;
+  bottom: 12px;
+  position: absolute;
+  color: white;
+}
+.card-content-popular h3{
+  margin-bottom: 10px;
+  font-size: 20px !important;
 }

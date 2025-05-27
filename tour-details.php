@@ -1,9 +1,10 @@
 <?php include 'includes/header.php' ?>
 <div class="header-detail">
-    <img src="bootstrap/images/detail-img-1.jpg" alt="">
+    <img src="bootstrap/images/Ashtavinayak/tour-page-banner-ashtavinayak.png" alt="">
     <div class="header-overlay-detail">
-        <h1>Bali & Indonesia Tour</h1>
-        <p>Home / Bali & Indonesia Tour</p>
+        <h1>
+        Ashtavinayak Darshan</h1>
+        <p>Home / Ashtavinayak Darshan</p>
     </div>
 </div>
 <div class="container-div fade-in-on-scroll">
@@ -24,70 +25,147 @@
    
     
       <div id="information" class="tab-content active">
-<h2 class="text-left">Bali & Indonesia Tour <span class="price-text">$1670</span> <span class="p-text">/ per person</span></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
-        <p>Nullam ac justo efficitur, tristique ligula a, pellentesque ipsum. Quisque augue ipsum, vehicula et tellus nec, maximus viverra metus. Nullam elementum nibh nec pellentesque finibus. Suspendisse laoreet velit at eros eleifend, a pellentesque urna ornare. In sed viverra dui. Duis ultricies mi sed lorem blandit, non sodales sapien fermentum. Donec ultricies, turpis a sagittis suscipit, ex odio volutpat sem, vel molestie ligula enim varius est. Pellentesque sodales ipsum nisi. Suspendisse ultrices nulla eu volutpat volutpat. Nunc vestibulum, tortor sollicitudin dapibus egestas, lorem eros vestibulum turpis, ac condimentum erat ipsum rutrum dolor. Donec blandit nisi ut congue rutrum. Donec blandit nisi ut congue rutrum. Vestibulum enim velit, semper hendrerit tristique non, malesuada auctor nulla.</p>
-        <div class="info-row">
+<h2 class="text-left">Ashtavinayak Darshan <span class="price-text">Rs.2590</span> <span class="p-text">/ per person</span></h2>
+<div class="tab-div">Day 1</div>
+<div class="tab-area">
+<P>07:00 AM Departure from Pune.</P>
+<P>Morgaon Shree Mayureshwar Ganpati Darshan (Breakfast & Tea).</P>
+<P>Siddhatek Shree Siddhivinayak Ganpati Darshan (Lunch).
+Theur Shree Chintamani Ganpati Darshan.</P><P>Ranjangaon Shree Maha Ganpati Darshan (Evening Tea).Evening Travel to Ozar Shree Vighneshwar Ganpati Darshan.</P>
+
+</div>  
+<div class="tab-div">Day 2</div>
+<div class="tab-area">
+  <p>Early MOrning Proceed to Lenyadri Shree Girijatmaj Ganpati Darshan (Breakfast & Tea).</p>
+  <p>Pali Shree Ballaleshwar Ganpati Darshan (Lunch).
+Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).
+</p>
+<p>Night 10:00 PM arrival at Pune.</p>
+</div>
+<div class="tab-div"> <div class="row">
+  <div class="col-lg-6 col-md-6 col-sm-12">
+ <i class="bi bi-calendar me-2"></i>Every Saturday | 2 Days / 1 Night
+  </div>
+  <div class="col-lg-6 col-md-6 col-sm-12"><i class="bi bi-map me-2"></i>
+  Ashtavinayak Darshan
+  </div>
+</div></div>
+
+
+
+
+
+<!-- <div class="info-row">
           <div> 10 Days</div>
           <div> 12+ Age</div>
           <div> Budget Friendly</div>
           <div> Historical Buildings</div>
-        </div>
+        </div> -->
 
         <div class="table">
-          <div class="table-row row"><div class="col-6"><strong>Departure</strong></div><div class="col-6 "><span class="p-text">Main City Square, Pune Town</span></div></div>
-          <div class="table-row row"><div class="col-6"><strong>Departure Time</strong></div><div class="col-6"><span class="p-text">Please arrive by 9:15 AM for prompt departure at 9:30 AM.</span></div></div>
-          <div class="table-row row"><div class="col-6"><strong>Return Time</strong></div><div class="col-6"><span class="p-text">Approximately 8:30 PM</span></div></div>
-          <div class="table-row row"><div class="col-6"><strong>Include</strong></div><div class="col-6"><div class="row"><div class="col-6"><i class="include">✓</i> <span class="p-text">5 Star Accommodation</span> </div><div class="col-6"><i class="include">✓</i> <span class="p-text">Personal Guide</span></div></div>
-          <div class="row"><div class="col-6"><i class="include">✓</i> <span class="p-text">Airport Transfers</span></div><div class="col-6"><i class="include">✓</i> <span class="p-text">Breakfast</span></div></div></div></div>
-          <div class="table-row row"><div class="col-6">
-            <strong>Not Included</strong></div><div class="col-6">
-                <div class="row"><div class="col-6"><span><i class="not-include">✗</i><span class="p-text">Departure Taxes</span></div><div class="col-6">  <i class="not-include">✗</i> <span class="p-text">Entry Fees</span></span></div></div></div></div>
+          <div class="table-row row"><div class="col-lg-4 col-sm-12"><strong>Departure</strong></div><div class="col-lg-8 col-sm-12 "><span class="p-text">Pune</span></div></div>
+          <div class="table-row row"><div class="col-lg-4 col-sm-12"><strong>Departure Time</strong></div><div class="col-lg-8 col-sm-12"><span class="p-text">07:00 am</span></div></div>
+          <div class="table-row row"><div class="col-lg-4 col-sm-12"><strong>Return Time</strong></div><div class="col-lg-8 col-sm-12"><span class="p-text">Night arrival at Pune.</span></div></div>
+          <div class="table-row row"><div class="col-lg-4 col-sm-12"><strong>Include</strong></div><div class="col-lg-8 col-sm-12"><div class="row"><div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i><p class="p-text">Veg Meals Breakfast (Tea)</p></span>  </div><div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i><p class="p-text">Veg Meals Lunch & Dinner</p></span></div>
+          <div class="col-lg-6 col-sm-12"><i class="include">✓</i> <span class="p-text">Toll & Parking</span></div><div class="col-lg-6 col-sm-12 "><span class="d-flex mb-2"><i class="include">✓</i><p class="p-text">Accommodation</p></span></div></div></div></div>
+          <div class="table-row row"><div class="col-lg-4 col-sm-12">
+            <strong>Not Included</strong></div><div class="col-lg-8 col-sm-12">
+                <div class="row"><div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="not-include">✗</i><p class="p-text">All Personal Expenses</p></div><div class="col-lg-6 col-sm-12">  <span class="d-flex mb-2"><i class="not-include">✗</i> <p class="p-text">VIP Entrance Fee</p></span></div><div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="not-include">✗</i><p class="p-text">Last Day Dinner and Water Bottles</p></span></div></div></div></div>
         </div>
+        <div class="table-row row price-back"><div class="col-lg-4 col-sm-12"><strong>Price
+        </strong></div><div class="col-lg-8 col-sm-12 "><p>Rs. 2590/- Per Person | Every Saturday | Non-AC Bus | Family Non-Ac |
+        Deluxe Room (Bhakt Nivas)</p>
+      <p>Rs. 3490/- Per Person | Everyday | AC Bus | Veg Meals | Family Non-Ac |
+      Deluxe Room (Bhakt Nivas)</p><p>Rs. 3990/- Per Person | Every Saturday | AC Bus | Veg Meals | Family Ac | Deluxe Room</p></div></div>
+
       </div>
 
-      <div id="plan" class="tab-content">
-        <h2>Tour Plan</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor
-        auctor tellus, eu consectetur neque elit quis nunc. Cras elementum pretium est.</p>
-    <p>Nullam ac justo efficitur, tristique ligula a, pellentesque ipsum. Quisque augue ipsum, vehicula et tellus nec, maximus viverra metus. Nullam elementum nibh nec pellentesque finibus. Suspendisse laoreet velit at eros eleifend, a pellentesque urna ornare. In sed viverra dui. Duis ultricies mi sed lorem blandit, non sodales sapien fermentum. Donec ultricies, turpis a sagittis suscipit, ex odio volutpat sem, vel molestie ligula enim varius est. Pellentesque sodales ipsum nisi. Suspendisse ultrices nulla eu volutpat volutpat. Nunc vestibulum, tortor sollicitudin dapibus egestas, lorem eros vestibulum turpis, ac condimentum erat ipsum rutrum dolor. Donec blandit nisi ut congue rutrum. Donec blandit nisi ut congue rutrum. Vestibulum enim velit, semper hendrerit tristique non, malesuada auctor nulla.</p>  
+      <div id="plan" class="tab-content ">
+        <h2 class="text-left">Tour Plan</h2>
+        <div class="tab-div">Day 1</div>
+<div class="tab-area">
+<p>07:00 AM Departure from Pune.</p><p>Morgaon Shree Mayureshwar Ganpati Darshan (Breakfast & Tea).</p> <p>Siddhatek Shree Siddhivinayak Ganpati Darshan (Lunch).</p><p> Theur Shree Chintamani Ganpati Darshan.</p><p> Ranjangaon Shree Maha Ganpati Darshan (Evening Tea).</p> <p> Evening Travel to Ozar Shree Vighneshwar Ganpati Darshan.</p>
+</div>  
+<div class="tab-div">Day 2</div>
+<div class="tab-area">
+<p> Early MOrning Proceed to Lenyadri Shree Girijatmaj Ganpati Darshan (Breakfast & Tea).</p><p> Pali Shree Ballaleshwar Ganpati Darshan (Lunch).</p> <p> Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).</p> <p> Night 10:00 PM arrival at Pune.</p>
+</div>
     </div>
 
       <div id="location" class="tab-content">
-        <h2>Location</h2>
-        <p>Map and destination details.</p>
+        <h2 class="text-left">Location</h2>
+        <div class="map-container">
+        <iframe 
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.0000000000005!2d73.85000000000001!3d18.520000000000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1234567890!2sPune!5e0!3m2!1sen!2sin!4v0000000000000"
+          width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      </div>
       </div>
 
       <div id="gallery" class="tab-content">
-        <h2>Gallery</h2>
-        <p>Photos from the trip.</p>
+        <h2 class="text-left">Gallery</h2>
+        <div class="row">
+        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination1.png" alt="" class="tab-inner-img"></div>
+        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination2.png" alt="" class="tab-inner-img"></div>
+        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination3.png" alt="" class="tab-inner-img"></div>
+        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination4.png" alt="" class="tab-inner-img"></div>
+        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination5.png" alt="" class="tab-inner-img"></div>
+        <div class="col-4"><img src="bootstrap\images\Ashtavinayak\ashtvinayak-page-destination6.png" alt="" class="tab-inner-img"></div>
+        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination7.png" alt="" class="tab-inner-img"></div>
+        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination8.png" alt="" class="tab-inner-img"></div>
+
+
+
+      </div>
       </div>
 
       <div id="reviews" class="tab-content">
-        <h2>Reviews</h2>
-        <p>Customer feedback.</p>
-      </div>
-
-      <div>
-      <h3 class="mt-3">From Our Gallery</h3>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur dolore atque magni eius repellat, laudantium nihil aspernatur culpa harum, ratione deserunt accusamus reprehenderit iusto? Enim maiores facere deserunt nisi doloremque?</p>
+        <h2 >Reviews</h2>
 <div class="row">
-    <div class="col-4">
-    <img class="w-100" src="bootstrap/images/tour-img-1.png" />
-
+  <div class="col-lg-4 col-md-6 col-sm-12">
+    <div class="review-div">
+      <h2>5</h2>
+     <span>Superb</span>
     </div>
-    <div class="col-4">
-    <img  class="w-100" src="bootstrap/images/tour-img-2.png" />
+  </div>
+  <div class="col-lg-8 col-md-6 col-sm-12">
 
-    </div>
+  <div class="review-row">
+    <span>Accommodation</span>
+    <span>85%</span>
+  </div>
+  <div class="review-progress-container">
+    <div class="review-progress-bar" data-value="85"></div>
+  </div>
 
-    <div class="col-4">
-    <img  class="w-100" src="bootstrap/images/tour-img-3.png" />
+  <div class="review-row">
+    <span>Transport</span>
+    <span>90%</span>
+  </div>
+  <div class="review-progress-container">
+    <div class="review-progress-bar" data-value="90"></div>
+  </div>
 
-    </div>
+  <div class="review-row">
+    <span>Comfort</span>
+    <span>100%</span>
+  </div>
+  <div class="review-progress-container">
+    <div class="review-progress-bar" data-value="100"></div>
+  </div>
 
-</div>
-      </div>
+  <div class="review-row">
+    <span>Hospitality</span>
+    <span>88%</span>
+  </div>
+  <div class="review-progress-container">
+    <div class="review-progress-bar" data-value="88"></div>
+  </div>
+
+
+  </div>
+
+</div>      </div>
+
     </div>
 
     <div class="right-filters">
