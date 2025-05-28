@@ -102,16 +102,16 @@ Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).
       </div>
 
       <div id="gallery" class="tab-content">
-        <h2 class="text-left">Gallery</h2>
+        <h2 class="text-c-center">Gallery</h2>
         <div class="row">
-        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination1.png" alt="" class="tab-inner-img"></div>
-        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination2.png" alt="" class="tab-inner-img"></div>
-        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination3.png" alt="" class="tab-inner-img"></div>
-        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination4.png" alt="" class="tab-inner-img"></div>
-        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination5.png" alt="" class="tab-inner-img"></div>
-        <div class="col-4"><img src="bootstrap\images\Ashtavinayak\ashtvinayak-page-destination6.png" alt="" class="tab-inner-img"></div>
-        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination7.png" alt="" class="tab-inner-img"></div>
-        <div class="col-4"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination8.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination1.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination2.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination3.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination4.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination5.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap\images\Ashtavinayak\ashtvinayak-page-destination6.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination7.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination8.png" alt="" class="tab-inner-img"></div>
 
 
 
