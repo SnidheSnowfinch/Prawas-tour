@@ -4,7 +4,7 @@
     <div class="header-overlay-detail">
         <h1>
         Ashtavinayak Darshan</h1>
-        <p>Home / Ashtavinayak Darshan</p>
+        <p>Home / Tour-Details</p>
     </div>
 </div>
 <div class="container-div fade-in-on-scroll">
@@ -67,7 +67,7 @@ Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).
           <div class="table-row row"><div class="col-lg-4 col-sm-12"><strong>Departure Time</strong></div><div class="col-lg-8 col-sm-12"><span class="p-text">07:00 am</span></div></div>
           <div class="table-row row"><div class="col-lg-4 col-sm-12"><strong>Return Time</strong></div><div class="col-lg-8 col-sm-12"><span class="p-text">Night arrival at Pune.</span></div></div>
           <div class="table-row row"><div class="col-lg-4 col-sm-12"><strong>Include</strong></div><div class="col-lg-8 col-sm-12"><div class="row"><div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i><p class="p-text">Veg Meals Breakfast (Tea)</p></span>  </div><div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i><p class="p-text">Veg Meals Lunch & Dinner</p></span></div>
-          <div class="col-lg-6 col-sm-12"><i class="include">✓</i> <span class="p-text">Toll & Parking</span></div><div class="col-lg-6 col-sm-12 "><span class="d-flex mb-2"><i class="include">✓</i><p class="p-text">Accommodation</p></span></div></div></div></div>
+          <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i> <p class="p-text">Toll & Parking</p></span></div><div class="col-lg-6 col-sm-12 "><span class="d-flex mb-2"><i class="include">✓</i><p class="p-text">Accommodation</p></span></div></div></div></div>
           <div class="table-row row"><div class="col-lg-4 col-sm-12">
             <strong>Not Included</strong></div><div class="col-lg-8 col-sm-12">
                 <div class="row"><div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="not-include">✗</i><p class="p-text">All Personal Expenses</p></div><div class="col-lg-6 col-sm-12">  <span class="d-flex mb-2"><i class="not-include">✗</i> <p class="p-text">VIP Entrance Fee</p></span></div><div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="not-include">✗</i><p class="p-text">Last Day Dinner and Water Bottles</p></span></div></div></div></div>
@@ -84,11 +84,11 @@ Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).
         <h2 class="text-left">Tour Plan</h2>
         <div class="tab-div">Day 1</div>
 <div class="tab-area">
-<p>07:00 AM Departure from Pune.</p><p>Morgaon Shree Mayureshwar Ganpati Darshan (Breakfast & Tea).</p> <p>Siddhatek Shree Siddhivinayak Ganpati Darshan (Lunch).</p><p> Theur Shree Chintamani Ganpati Darshan.</p><p> Ranjangaon Shree Maha Ganpati Darshan (Evening Tea).</p> <p> Evening Travel to Ozar Shree Vighneshwar Ganpati Darshan.</p>
+  <p>1) 07:00 AM Departure from Pune. 2) Morgaon Shree Mayureshwar Ganpati Darshan (Breakfast & Tea). 3) Siddhatek Shree Siddhivinayak Ganpati Darshan (Lunch). 4) Theur Shree Chintamani Ganpati Darshan. 5) Ranjangaon Shree Maha Ganpati Darshan (Evening Tea). 6) Evening Travel to Ozar Shree Vighneshwar Ganpati Darshan.</p>
 </div>  
 <div class="tab-div">Day 2</div>
 <div class="tab-area">
-<p> Early MOrning Proceed to Lenyadri Shree Girijatmaj Ganpati Darshan (Breakfast & Tea).</p><p> Pali Shree Ballaleshwar Ganpati Darshan (Lunch).</p> <p> Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).</p> <p> Night 10:00 PM arrival at Pune.</p>
+  <p>1) Early MOrning Proceed to Lenyadri Shree Girijatmaj Ganpati Darshan (Breakfast & Tea). 2) Pali Shree Ballaleshwar Ganpati Darshan (Lunch). 3) Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea). 4) Night 10:00 PM arrival at Pune.</p>
 </div>
     </div>
 
@@ -104,14 +104,14 @@ Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).
       <div id="gallery" class="tab-content">
         <h2 class="text-c-center">Gallery</h2>
         <div class="row">
-        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination1.png" alt="" class="tab-inner-img"></div>
-        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination2.png" alt="" class="tab-inner-img"></div>
-        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination3.png" alt="" class="tab-inner-img"></div>
-        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination4.png" alt="" class="tab-inner-img"></div>
-        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination5.png" alt="" class="tab-inner-img"></div>
-        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap\images\Ashtavinayak\ashtvinayak-page-destination6.png" alt="" class="tab-inner-img"></div>
-        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination7.png" alt="" class="tab-inner-img"></div>
-        <div class="col-lg-4 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination8.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination1.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination2.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination3.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination4.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination5.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img src="bootstrap\images\Ashtavinayak\ashtvinayak-page-destination6.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination7.png" alt="" class="tab-inner-img"></div>
+        <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img src="bootstrap/images/Ashtavinayak/ashtavinayak-page-destination8.png" alt="" class="tab-inner-img"></div>
 
 
 
@@ -120,6 +120,8 @@ Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).
 
       <div id="reviews" class="tab-content">
         <h2 >Reviews</h2>
+        <div class="review-outer-div">
+
 <div class="row">
   <div class="col-lg-4 col-md-6 col-sm-12">
     <div class="review-div">
@@ -164,6 +166,7 @@ Mahad Shree Varadvinayak Ganpati Darshan (Evening Tea).
 
   </div>
 
+</div>
 </div>      </div>
 
     </div>

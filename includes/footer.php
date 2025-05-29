@@ -107,14 +107,33 @@
               behavior: "smooth"
           });
       }
+      // function scrollCards(direction) {
+      //     const container = document.getElementById("cardContainer");
+      //     const scrollAmount = 321; // adjust based on card width
+      //     container.scrollBy({
+      //         left: direction * scrollAmount,
+      //         behavior: "smooth"
+      //     });
+      // }
       function scrollCards(direction) {
-          const container = document.getElementById("cardContainer");
-          const scrollAmount = 330; // adjust based on card width
-          container.scrollBy({
-              left: direction * scrollAmount,
-              behavior: "smooth"
-          });
-      }
+    const container = document.getElementById("cardContainer");
+
+    // Define scroll amounts for different devices
+    const desktopScrollAmount = 352;
+    const mobileScrollAmount = 280;
+
+    // Determine current screen size
+    const isMobile = window.innerWidth <= 768; // You can adjust the breakpoint as needed
+
+    // Choose scroll amount based on device type
+    const scrollAmount = isMobile ? mobileScrollAmount : desktopScrollAmount;
+
+    container.scrollBy({
+        left: direction * scrollAmount,
+        behavior: "smooth"
+    });
+}
+
       const reviews = [
         {
               name: "Dr Manisha Pathak Mr. Bhushan Pathak Vadodara",

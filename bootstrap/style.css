@@ -164,7 +164,7 @@ header p,.header-about p,.header-package p {
 .carousel-container {
   position: relative;
   overflow: hidden;
-  padding: 20px;
+  padding: 0 25px;
 }
 .fact-container{
   position: relative;
@@ -172,10 +172,10 @@ header p,.header-about p,.header-package p {
 
 }
 .tour-cards {
-  padding: 20px;
+  padding: 21px;
   display: flex
   ;
-      gap: 20px;
+      gap: 21px;
       overflow-x: auto;
       scroll-behavior: smooth;
       justify-content: flex-start;
@@ -185,16 +185,25 @@ header p,.header-about p,.header-package p {
   display: none;
 }
 
+
+
+
+   
+
+
+  
 .card {
+  flex-direction: column;
+  min-height: 430px;
   display: flex
   ;
       flex: 0 0 auto;
-      width: 300px;
+      width: 330px;
       background: #fff;
       border-radius: 0;
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
       overflow: hidden;
-      justify-content: space-around;}
+}
 
 .card img {
   width: 100%;
@@ -203,11 +212,11 @@ header p,.header-about p,.header-package p {
 }
 
 .card-content {
-  padding: 20px 8px;}
+  padding: 20px 15px 0px 15px;}
 
 .card-content h3 {
   color: #303030;
-  font-size: 17px;
+  font-size: 19px;
   margin-bottom: 10px;
 }
 .card-content p{
@@ -233,10 +242,13 @@ header p,.header-about p,.header-package p {
   margin: 5px 0;
 }
 
-.card-content .buttons {
+.card-content-buttons {
+  padding: 5px 15px 20px 15px;
+
+
   display: flex;
   justify-content: space-between;
-  margin-top: 10px;
+  margin-top: auto;
 }
 
 .card-button {
@@ -308,13 +320,15 @@ text-align: center;
 }
 
 @media (max-width: 768px) {
+  .card-button {
+    font-size: 15px !important;}
   .tab-inner-img {
     width: 225px !important;
     transition: transform 0.3s;
     margin-bottom: 20px;
     object-fit: cover;
     height: 235px !important;
-    border-radius: 10px;}
+   }
   .text-c-center{
     text-align: center !important;
   }
@@ -385,7 +399,7 @@ text-align: center;
 }
 .fact-div{
   margin: 0px 25px;
-  padding: 20px;
+  padding: 50px;
   display: flex
 ;
   gap: 20px;
@@ -581,8 +595,8 @@ text-align: center;
 
   margin-bottom: 20px;
   object-fit: cover;
-  height: 250px;
-  border-radius: 10px;
+  height: 230px;
+ 
   width: 100%;
 }
 .tab-inner-img:hover{
@@ -709,7 +723,7 @@ text-align: center;
 
   .right-filters {
     width: 100%;
-    margin-top: 20px;
+    /* margin-top: 20px; */
   }
 }
 
@@ -1015,12 +1029,13 @@ header h1,.header-about h1,.header-package h1 {
   }
   .right-filters {
    /* width: 220px; */
-    background-color: #F9F9F9;  padding: 20px;
+    background-color: #F9F9F9; 
+     padding: 20px;
   }
   .container-tab {
     display: flex
 ;
-    padding-top: 20px;
+    /* padding-top: 20px; */
     flex-wrap: wrap;
     flex-direction: column-reverse;
 }
@@ -1107,11 +1122,12 @@ header h1,.header-about h1,.header-package h1 {
     padding: 40px 20px;
     
     }
+    
   .search-bar {
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;
-    bottom: -58%;
+    bottom: -45%;
     background: white;
     padding: 20px;
     margin: -40px auto 40px auto;
@@ -1135,6 +1151,11 @@ header h1,.header-about h1,.header-package h1 {
     text-align: left;
     padding: 45px 40px 40px;
   }
+  .search-bar span {
+    display: flex
+;
+    align-items: center;
+    gap: 28px !important;}
 
 }
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -1214,9 +1235,9 @@ header h1,.header-about h1,.header-package h1 {
   .header-detail h1 {
     
     text-transform: capitalize;
-    font-weight: 400;
-    width: 500px;
-    font-size: 70px;
+    font-weight: 500;
+    width: 670px;
+    font-size: 50px;
     margin-bottom: 10px;
   }
   .cardtTabs {
@@ -1257,9 +1278,13 @@ header h1,.header-about h1,.header-package h1 {
     margin-bottom: 20px;
   }
   .container-div{
-    padding: 50px 170px;
+    padding: 50px 150px;
     
     }
+    .container-div-scroll{
+      padding: 50px 120px !important;
+      
+      }
   .search-bar {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -1366,9 +1391,9 @@ header h1,.header-about h1,.header-package h1 {
   }
   .header-detail h1 {
     text-transform: capitalize;
-    font-weight: 400;
-    width: 500px;
-    font-size: 70px;
+    font-weight: 600;
+    width: 670px;
+    font-size: 60px;
     margin-bottom: 10px;
   }
   .cardtTabs {
@@ -1410,9 +1435,13 @@ header h1,.header-about h1,.header-package h1 {
     margin-bottom: 20px;
   }
   .container-div{
-    padding: 50px 170px;
+    padding: 50px 150px;
     
     }
+    .container-div-scroll{
+      padding: 50px 120px !important;
+      
+      }
   .search-bar {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -1518,9 +1547,9 @@ header h1,.header-about h1,.header-package h1 {
   }
   .header-detail h1 {
     text-transform: capitalize;
-    font-weight: 400;
-    width: 500px;
-    font-size: 70px;
+    font-weight: 600;
+    width: 670px;
+    font-size: 60px;
     margin-bottom: 10px;
   }
   .cardtTabs {
@@ -1562,9 +1591,13 @@ header h1,.header-about h1,.header-package h1 {
     margin-bottom: 20px;
   }
   .container-div{
-    padding: 50px 170px;
+    padding: 50px 150px;
     
     }
+    .container-div-scroll{
+      padding: 50px 120px !important;
+      
+      }
   .search-bar {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -1670,9 +1703,9 @@ header h1,.header-about h1,.header-package h1 {
   }
   .header-detail h1 {
     text-transform: capitalize;
-    font-weight: 400;
-    width: 500px;
-    font-size: 70px;
+    font-weight: 600;
+    width: 670px;
+    font-size: 60px;
     margin-bottom: 10px;
   }
   .cardtTabs {
@@ -1714,9 +1747,13 @@ header h1,.header-about h1,.header-package h1 {
     margin-bottom: 20px;
   }
   .container-div{
-    padding: 50px 170px;
+    padding: 50px 150px;
     
     }
+    .container-div-scroll{
+      padding: 50px 120px !important;
+      
+      }
   .search-bar {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -1995,7 +2032,7 @@ border: 2px solid black;
   left: 0;
   background: white;
   border-radius: 5px;
-  padding: 10px 0;
+  /* padding: 10px 0; */
   min-width: 200px;
   box-shadow: 0 8px 16px rgba(0,0,0,0.2);
   display: none;
@@ -2043,14 +2080,19 @@ border: 2px solid black;
   background: #ffe99978;
 }
 .tab-area p{
+  line-height: 2;
   margin-bottom: 8px !important;
 }
 .tab-area{
   padding: 10px;
 }
 .review-div{
+  padding: 20px;
+  background: #faebd775;
   text-align: center;
 }
+.review-outer-div{
+  padding: 20px;}
 .review-div h2{
   color: #fa9521;
   font-size: 53px;
