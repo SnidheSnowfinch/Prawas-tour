@@ -7,8 +7,12 @@
 }
 
 body {
+  font-family: 'Lato', sans-serif;
   background-color: #fff;
   color: #333;
+}
+body p{
+  font-family: 'Lato', sans-serif;
 }
 
 .navbar {
@@ -74,9 +78,10 @@ header p,.header-about p,.header-package p {
 
 
 
-.search-bar h6{
-  font-size: 17px;
-
+.search-bar h6 {
+  font-weight: 600;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
   color: black;
 }
 
@@ -86,7 +91,7 @@ header p,.header-about p,.header-package p {
   margin: 0;
 
   color: #242625;
-  font-size: 17px
+  font-size: 16px
 }
 .search-bar span
 {
@@ -127,6 +132,7 @@ header p,.header-about p,.header-package p {
   align-items: center;
 }
 .container-div p {
+  font-family: 'Lato', sans-serif;
   color: #585858;
   text-align: left;
   font-size: 17px;
@@ -172,10 +178,10 @@ header p,.header-about p,.header-package p {
 
 }
 .tour-cards {
-  padding: 21px;
+  padding: 10px;
   display: flex
   ;
-      gap: 21px;
+      gap: 10px;
       overflow-x: auto;
       scroll-behavior: smooth;
       justify-content: flex-start;
@@ -184,11 +190,20 @@ header p,.header-about p,.header-package p {
 .tour-cards::-webkit-scrollbar {
   display: none;
 }
+header h1, .header-about h1, .header-package h1 {
+  font-family: 'Playfair Display', serif;
+}
 
+.header-detail h1{
+  font-family: 'Playfair Display', serif;
 
+}
 
-
-   
+@font-face {
+  font-family: 'Vortigra';
+  src: url('fonts/Vortigra.woff2') format('woff2'),
+       url('fonts/Vortigra.woff') format('woff');
+}
 
 
   
@@ -199,22 +214,30 @@ header p,.header-about p,.header-package p {
   ;
       flex: 0 0 auto;
       width: 330px;
-      background: #fff;
       border-radius: 0;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-      overflow: hidden;
-}
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease, box-shadow 0.4s ease;}
 
 .card img {
   width: 100%;
   height: 200px;
   object-fit: cover;
 }
-
+.container-div h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+}
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
 .card-content {
   padding: 20px 15px 0px 15px;}
 
 .card-content h3 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+
   color: #303030;
   font-size: 19px;
   margin-bottom: 10px;
@@ -308,7 +331,17 @@ text-align: center;
   cursor: pointer;
   z-index: 10;
 }
-
+.nav-btn-popular {
+  background: none;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #CBCBCB;
+  border: none;
+  font-size: 41px;
+  cursor: pointer;
+  z-index: 10;
+}
 
 
 .prev-btn {
@@ -355,14 +388,16 @@ text-align: center;
   
 
   .fact-div {
-    width: 315px;
+    margin: 1px 45px !important;
+    padding: 20px !important;
+    
     margin: 40px;}
   .fact-div img {
     width: 90px;
   }
   .footer-section{
     flex: 1 1 140px !important;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
   .service-inner-div img {
     object-fit: contain;
@@ -373,15 +408,15 @@ text-align: center;
     font-size: 16px !important;
     color: #061A3A;}
   .tour-cards {
-    padding: 11px !important;
+    padding: 10px !important;
     display: flex
 ;
-    gap: 20px;}
+    gap: 10px;}
   .carousel-container {
    
     position: relative;
     overflow: hidden;
-    padding: 20px !important;
+    padding: 12px !important;
   }
   header h1 {
     font-size: 2rem;
@@ -442,6 +477,8 @@ text-align: center;
   font-weight: 700;
 }
 .service-inner-div p{
+  font-family: 'Work Sans', sans-serif;
+
   color: #585858;
   text-align: left;
   font-size: 15px;
@@ -456,7 +493,28 @@ text-align: center;
 .service-inner-div{
   text-align: left;
 }
+.custom-scroll::-webkit-scrollbar {
+  width: 6px;
+}
 
+
+.custom-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.custom-scroll::-webkit-scrollbar-button {
+  display: none;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 166, 0, 0.73);
+  border-radius: 3px;
+  border: 1px solid transparent;
+}
+
+.custom-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 166, 0, 0.732) transparent;
+}
 .fecility-inner-div{
   margin: 10px 0;
   padding: 8px;
@@ -528,6 +586,7 @@ text-align: center;
 }
 
 .review-text {
+  font-family: 'Lato', sans-serif;
   font-size: 16px;
   font-style: italic;
   color: #555;
@@ -618,11 +677,18 @@ text-align: center;
   gap: 15px;
   /* padding: 0 20px; */
 }
-
+.card-new .card-content .d-card-flex .highlight {
+  font-size: 18px;
+  width: 45% !important;
+}
+.card-new .card-content .d-card-flex{
+  gap: 10px;
+}
 .card-new {
+
+    min-height: 400px !important;
   display: flex
   ;
-      justify-content: space-between;
   width: 250px !important;
 }
 
@@ -722,6 +788,8 @@ text-align: center;
   }
 
   .right-filters {
+    height: fit-content;
+
     width: 100%;
     /* margin-top: 20px; */
   }
@@ -854,7 +922,7 @@ text-align: center;
 footer {
   background-color: #1d1d1d;
   color: #ccc;
-  padding: 50px 20px 20px;
+  padding: 50px 120px 20px;
 }
 
 .footer-container {
@@ -866,8 +934,9 @@ footer {
 }
 
 .footer-logo {
+  padding: 0 20px;
   flex: 1 1 250px;
-  margin-bottom: 30px;
+ 
 }
 
 .footer-logo img {
@@ -895,8 +964,9 @@ footer {
 }
 
 .footer-section {
-  flex: 1 1 200px;
-  margin-bottom: 30px;
+  padding: 20px;
+  flex: 1 1 160px;
+ 
 }
 
 .footer-section h4 {
@@ -911,8 +981,14 @@ footer {
 }
 
 .footer-section ul li {
+  text-align: justify;
+  display: flex;
   font-size: 14px;
   margin-bottom: 8px;
+}
+.footer-contact{
+  padding: 20px;
+  flex: 1 1 220px !important;
 }
 
 .footer-contact ul li i {
@@ -942,7 +1018,7 @@ footer {
   color: #777;
   border-top: 1px solid #333;
   padding-top: 15px;
-  margin-top: 20px;
+ 
 }
 
 .footer-icons {
@@ -972,9 +1048,14 @@ header h1,.header-about h1,.header-package h1 {
   position: relative;
 }
 @media (max-width: 768px) {
+  footer {
+    background-color: #1d1d1d;
+    color: #ccc;
+    padding: 50px 20px 20px !important;
+}
   .footer-logo {
     flex: 1 1 150px !important;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
   .footer-container {
     flex-direction: column;
@@ -1028,6 +1109,7 @@ header h1,.header-about h1,.header-package h1 {
   
   }
   .right-filters {
+    height: fit-content;
    /* width: 220px; */
     background-color: #F9F9F9; 
      padding: 20px;
@@ -1127,14 +1209,13 @@ header h1,.header-about h1,.header-package h1 {
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;
-    bottom: -45%;
+    bottom: -60%;
     background: white;
     padding: 20px;
     margin: -40px auto 40px auto;
     width: 90%;
     max-width: 1000px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    display: flex
+    box-shadow: 0 4px 8px rgb(0 0 0 / 33%);    display: flex
   ;
     gap: 10px;
     flex-wrap: wrap;
@@ -1156,7 +1237,9 @@ header h1,.header-about h1,.header-package h1 {
 ;
     align-items: center;
     gap: 28px !important;}
-
+    .margin-top-home{
+      margin-top: 80px;
+    }
 }
 @media (min-width: 768px) and (max-width: 1024px) {
   
@@ -1175,6 +1258,8 @@ header h1,.header-about h1,.header-package h1 {
   
   }
   .right-filters {
+    height: fit-content;
+
     margin: 0 0px 0 17px;
     width: 220px;
     background-color: #F9F9F9;  padding: 20px;
@@ -1295,8 +1380,7 @@ header h1,.header-about h1,.header-package h1 {
     margin: -40px auto 40px auto;
     width: 90%;
     max-width: 1000px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    display: flex
+    box-shadow: 0 4px 8px rgb(0 0 0 / 33%);    display: flex
   ;
     gap: 10px;
     flex-wrap: wrap;
@@ -1312,6 +1396,9 @@ header h1,.header-about h1,.header-package h1 {
     position: absolute;
     text-align: left;
     padding: 100px 160px 60px;
+  }
+  .margin-top-home{
+    margin-top: 50px;
   }
 
 }
@@ -1332,6 +1419,8 @@ header h1,.header-about h1,.header-package h1 {
   
   }
   .right-filters {
+    height: fit-content;
+
     margin: 0 0px 0 17px;
     width: 220px;
     background-color: #F9F9F9;  padding: 20px;
@@ -1410,6 +1499,9 @@ header h1,.header-about h1,.header-package h1 {
   .margin-top{
     margin-top: 50px;
   }
+  .margin-top-home{
+    margin-top: 70px;
+  }
   .inner-img img{
     background: white;
     box-shadow: var(--bs-box-shadow) !important;
@@ -1452,8 +1544,7 @@ header h1,.header-about h1,.header-package h1 {
     margin: -40px auto 40px auto;
     width: 90%;
     max-width: 1000px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    display: flex
+    box-shadow: 0 4px 8px rgb(0 0 0 / 33%);    display: flex
   ;
     gap: 10px;
     flex-wrap: wrap;
@@ -1489,6 +1580,8 @@ header h1,.header-about h1,.header-package h1 {
   
   }
   .right-filters {
+    height: fit-content;
+
     margin: 0 0px 0 17px;
     width: 220px;
     background-color: #F9F9F9;  padding: 20px;
@@ -1566,6 +1659,9 @@ header h1,.header-about h1,.header-package h1 {
   .margin-top{
     margin-top: 50px;
   }
+  .margin-top-home{
+    margin-top: 50px;
+  }
   .inner-img img{
     background: white;
     box-shadow: var(--bs-box-shadow) !important;
@@ -1608,8 +1704,7 @@ header h1,.header-about h1,.header-package h1 {
     margin: -40px auto 40px auto;
     width: 90%;
     max-width: 1000px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    display: flex
+    box-shadow: 0 4px 8px rgb(0 0 0 / 33%);    display: flex
   ;
     gap: 10px;
     flex-wrap: wrap;
@@ -1645,6 +1740,8 @@ header h1,.header-about h1,.header-package h1 {
   
   }
   .right-filters {
+    height: fit-content;
+
     margin: 0 0px 0 17px;
     width: 220px;
     background-color: #F9F9F9;  padding: 20px;
@@ -1722,6 +1819,9 @@ header h1,.header-about h1,.header-package h1 {
   .margin-top{
     margin-top: 50px;
   }
+  .margin-top-home{
+    margin-top: 50px;
+  }
   .inner-img img{
     background: white;
     box-shadow: var(--bs-box-shadow) !important;
@@ -1764,8 +1864,7 @@ header h1,.header-about h1,.header-package h1 {
     margin: -40px auto 40px auto;
     width: 90%;
     max-width: 1000px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    display: flex
+    box-shadow: 0 4px 8px rgb(0 0 0 / 33%);    display: flex
   ;
     gap: 10px;
     flex-wrap: wrap;
@@ -2129,7 +2228,7 @@ a {
 .card-popular{
   flex: 0 0 auto;
     position: relative;
-    width: 300px;
+    width: 310px;
 
 }
 .card-popular img{
@@ -2156,6 +2255,8 @@ height: 200px;
   color: white;
 }
 .card-content-popular h3{
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
   margin-bottom: 10px;
   font-size: 20px !important;
 }

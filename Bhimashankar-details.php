@@ -3,7 +3,7 @@
     <img src="bootstrap/images/Ashtavinayak/tour-page-banner-ashtavinayak.png" alt="">
     <div class="header-overlay-detail">
         <h1>
-            Diveagar – Dapoli - Kelshi</h1>
+        Bhimashankar</h1>
         <p>Home / Tour-Details</p>
     </div>
 </div>
@@ -25,44 +25,28 @@
 
 
             <div id="information" class="tab-content active">
-                <h2 class="text-left">Ashtavinayak Darshan <span class="price-text">Rs.2590</span> <span
+                <h2 class="text-left">Bhimashankar <span class="price-text">Rs.999</span> <span
                         class="p-text">/ per person</span></h2>
                 <div class="tab-div">Day 1</div>
                 <div class="tab-area">
-                    <p>Departure from Pune to Murud Janjira.</p>
-                    <p>Visit Janjira Fort with sailboat Experience.</p>
-                    <p>Proceed to Diveagar.</p>
-                    <p>Evening free time at the beach.</p>
-                    <p>Overnight stay at Diveagar.</p>
+                    <p>06:30 am Morning Departure from Pune.</p>
+                    <p>Proceed to Bhimashankar.</p>
+                    <p>Arrival at Bhimashankar.</p>
+                    <p>Enjoy darshan and explore the Bhimashankar Temple and surronding areas.</p>
+                    <p>Explore nearby sightseeing spots around Bhimashankar.</p>
+                    <p>03:00 pm return journey from Bhimashankar to Pune.</p>
+                    <p>07:00 pm arrival in Pune.</p>
 
 
                 </div>
-                <div class="tab-div">Day 2</div>
-                <div class="tab-area">
-                    <p>Proceed to Harihareshwar for Kalbhairav and Kashivishweshwar Darshan.</p>
-                    <p>Visit Mahalaxmi Mandir and Yakub Baba Darga at Kelshi.
-                    </p>
-                    <p>Visit kadyavarcha Ganpati and panoramic View of Suvarndurg Fort.
-                    </p>
-                    <p>Fort evening free time at the beach.
-                    </p>
-                    <p>Overnight Stay at Dapoli.</p>
-                </div>
-                <div class="tab-div">Day 3</div>
-                <div class="tab-area">
-                    <p>Visit Asud Vyangreshwar Mandir.</p>
-                    <p>Walk through betel nut and coconut farms.</p>
-                    <p>Proceed to Pune and Night arrival at Pune.</p>
-                </div>
-
 
                 <div class="tab-div">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-12">
-                            <i class="bi bi-calendar me-2"></i>Every Friday | 3 Days / 2 Night
+                            <i class="bi bi-calendar me-2"></i>Every Saturday & Sunday | one Day Trip
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12"><i class="bi bi-map me-2"></i>
-                            Diveagar – Dapoli - Kelshi
+                        Bhimashankar
                         </div>
                     </div>
                 </div>
@@ -88,18 +72,12 @@
                         <div class="col-lg-4 col-sm-12"><strong>Include</strong></div>
                         <div class="col-lg-8 col-sm-12">
                             <div class="row">
-                                <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Veg Meals</p>
-                                    </span> </div>
-                                <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Breakfast Lunch & Dinner</p>
-                                    </span></div>
+                               
+                            
                                 <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
                                         <p class="p-text">Toll & Parking</p>
                                     </span></div>
-                                <div class="col-lg-6 col-sm-12 "><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Accommodation</p>
-                                    </span></div>
+                              
                             </div>
                         </div>
                     </div>
@@ -116,7 +94,7 @@
                                         <p class="p-text">VIP Entrance Fee</p>
                                     </span></div>
                                 <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="not-include">✗</i>
-                                        <p class="p-text">Last Day Dinner and Water Bottles</p>
+                                        <p class="p-text">Water Bottles</p>
                                     </span></div>
                             </div>
                         </div>
@@ -126,8 +104,7 @@
                     <div class="col-lg-4 col-sm-12"><strong>Price
                         </strong></div>
                     <div class="col-lg-8 col-sm-12 ">
-                        <p>Rs. 7500/- Per Person | AC Bus | Family Non-Ac |
-                            Deluxe Room</p>
+                        <p>Rs. 999/- Per Person</p>
                     </div>
                 </div>
 
@@ -137,27 +114,7 @@
                 <h2 class="text-left">Tour Plan</h2>
                 <div class="tab-div">Day 1</div>
                 <div class="tab-area">
-                    <p>Departure from Pune at 7 am to Murud Janjira. En route breakfast . Proceed to Murud Janjira
-                        On
-                        arrival Visit Janira Fort. Experience the Sail boat from Murud to Janjira. After lunch
-                        proceed
-                        to Diveagar. Evening free at Beach. Overnight stay at Diveagar.</p>
-                </div>
-                <div class="tab-div">Day 2</div>
-                <div class="tab-area">
-                    <p>After breakfast proceed to Harihareshwar. known as Dakshin kashi. Darshan of Kalbhairav and
-                        Kashi
-                        Vishweshvar. Lunch . Proceed to Kelashi, visit Mahalaxmi Mandir, Yakub baba dargah . After
-                        lunch
-                        proceed to Anjarle. Visit Kadyavarcha Ganpati and panoramic view for Suvarndurg fort .
-                        Evening
-                        free at Beach. Overnight stay at Dapoli.</p>
-                </div>
-                <div class="tab-div">Day 3</div>
-                <div class="tab-area">
-                    <p>After breakfast visit Asud Vyaghreshwar Mandir , lies on the riverbank, a walk through the
-                        Beetle
-                        nuts & Coconuts farms, Lunch. Proceed to Pune. Night arrival at Pune.</p>
+                    <p>Morning Departure from Pune at 7 am followed by en-route breakfast. After breakfast, proceed to Bhimashankar .</p>
                 </div>
 
             </div>
@@ -175,28 +132,28 @@
                 <h2 class="text-c-center">Gallery</h2>
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination1.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Bhimashankar/bhimashankar-page-destination1.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination2.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Bhimashankar/bhimashankar-page-destination2.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination3.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Bhimashankar/bhimashankar-page-destination3.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination4.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Bhimashankar/bhimashankar-page-destination4.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination5.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Bhimashankar/bhimashankar-page-destination5.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination6.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Bhimashankar/bhimashankar-page-destination6.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination7.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Bhimashankar/bhimashankar-page-destination7.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination8.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Bhimashankar/bhimashankar-page-destination8.png" alt="" class="tab-inner-img">
                     </div>
 
 

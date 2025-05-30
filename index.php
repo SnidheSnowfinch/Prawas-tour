@@ -12,7 +12,7 @@
             <h6>Destination</h6>
         </div>
         <span>
-            <p>When</p>
+            <h6>When</h6>
 
             <select>
                 <option>When</option>
@@ -21,12 +21,12 @@
             </select>
         </span>
         <span>
-            <p>Where</p>
+          <h6>Where</h6>
 
             <input type="text" placeholder="Where" />
         </span>
         <span>
-            <p>Where</p>
+            <h6>Where</h6>
             <select>
 
 
@@ -38,7 +38,7 @@
     </div>
 </header>
 
-<section class="container-div-scroll container-div margin-top fade-in-on-scroll">
+<section class="container-div-scroll container-div margin-top-home fade-in-on-scroll">
     <h2>Group Tour Packages</h2>
     <p class="container-p">Modern & Beautiful
     </p>
@@ -46,7 +46,7 @@
         <button class="nav-btn prev-btn" onclick="scrollCards(-1)">❮</button>
         <div class="tour-cards" id="cardContainer">
           
-             
+            <a href="Ashtavinayak-Darshan.php">
             <div class="card">
                 <img src="bootstrap/images/tour01.png" />
                 <div class="card-content">
@@ -67,8 +67,9 @@
                     </div>
 
             </div>
-
-            <div class="card">
+            </a> 
+           
+<a href="Akara-Maruti.php"><div class="card">
                 <img src="bootstrap/images/tour02.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -87,9 +88,10 @@
                         <button class="card-button-fill">Book</button>
                     </div>
 
-            </div>
+            </div></a>
+            
 
-            <div class="card">
+           <a href="Alibag-details.php"> <div class="card">
                 <img src="bootstrap/images/tour03.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -108,8 +110,9 @@
                         <a href="Alibag-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-            </div>
-            <div class="card">
+            </div></a>
+
+           <a href="Aurangabad-details.php"> <div class="card">
                 <img src="bootstrap/images/tour04.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -119,7 +122,6 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
                     </div>
 
          
@@ -128,8 +130,9 @@
                         <a href="Aurangabad-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-            </div>
-            <div class="card">
+            </div></a>
+
+         <a href="Diveagar-details.php">   <div class="card">
                 <img src="bootstrap/images/tour05.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -139,7 +142,6 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
                     </div>
 
                 </div>
@@ -147,8 +149,9 @@
                         <a href="Diveagar-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-            </div>
-            <div class="card">
+            </div></a>
+
+          <a href="Ganapatipule.php">  <div class="card">
                 <img src="bootstrap/images/tour06.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -158,7 +161,7 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                        
                     </div>
 
                    
@@ -168,8 +171,8 @@
                         <button class="card-button-fill">Book</button>
                     </div>
 
-            </div>
-            <div class="card">
+            </div></a>
+           <a href="Mahabaleshwar-details.php"> <div class="card">
                 <img src="bootstrap/images/tour07.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -179,17 +182,17 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                        
                     </div>
 
                 </div>
                 <div class="card-content-buttons">
-                        <a href="" class="card-button">Trip Details</a>
+                        <a href="Mahabaleshwar-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-            </div>
+            </div></a>
 
-            <div class="card">
+          <a href="Panch-Jyotirling.php">  <div class="card">
                 <img src="bootstrap/images/tour08.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -199,16 +202,16 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                        
                     </div>
 
                 </div>
                 <div class="card-content-buttons">
-                        <a href="" class="card-button">Trip Details</a>
+                        <a href="Panch-Jyotirling.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-            </div>
-            <div class="card">
+            </div></a>
+            <a href="Bhimashankar-details.php"><div class="card">
                 <img src="bootstrap/images/tour09.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -218,35 +221,37 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                      
                     </div>
 
                 </div>
                 <div class="card-content-buttons">
-                        <a href="" class="card-button">Trip Details</a>
+                        <a href="Bhimashankar-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-            </div>
-            <div class="card">
+            </div></a>
+
+          <a href="Tarkarli –Malvan.php">  <div class="card">
                 <img src="bootstrap/images/tour010.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
-                        <h3>Tarkarli –Malvan- Sindhudurga</h3>
+                        <h3>Tarkarli–Malvan-Sindhudurga</h3>
                         <h3 class="price">₹ 7990</h3>
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                       
                     </div>
 
-                    <div class="buttons">
-                        <button class="card-button">Trip Details</button>
+                  
+                </div>
+                <div class="card-content-buttons">
+                        <a href="Tarkarli –Malvan.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-                </div>
-            </div>
-            <div class="card">
+            </div></a>
+            <a href="Pune-Darshan.php"><div class="card">
                 <img src="bootstrap/images/tour011.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -256,16 +261,17 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                        
                     </div>
 
-                    <div class="buttons">
-                        <button class="card-button">Trip Details</button>
+                    
+                </div>
+                <div class="card-content-buttons">
+                        <a href="Pune-Darshan.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-                </div>
-            </div>
-            <div class="card">
+            </div></a>
+           <a href="Shri-Shani-Shingnapur.php"> <div class="card">
                 <img src="bootstrap/images/tour012.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -275,16 +281,17 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                        
                     </div>
 
-                    <div class="buttons">
-                        <button class="card-button">Trip Details</button>
+                    
+                </div>
+                <div class="card-content-buttons">
+                        <a href="Shri-Shani-Shingnapur.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-                </div>
-            </div>
-            <div class="card">
+            </div></a>
+            <a href="Goa-details.php"><div class="card">
                 <img src="bootstrap/images/tour013.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -295,16 +302,17 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                        
                     </div>
 
-                    <div class="buttons">
-                        <button class="card-button">Trip Details</button>
+                    
+                </div>
+                <div class="card-content-buttons">
+                        <a href="Goa-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-                </div>
-            </div>
-            <div class="card">
+            </div></a>
+          <a href="Omkareshwar-details.php">  <div class="card">
                 <img src="bootstrap/images/tour014.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -314,16 +322,17 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                       
                     </div>
 
-                    <div class="buttons">
-                        <button class="card-button">Trip Details</button>
+                  
+                </div>
+                <div class="card-content-buttons">
+                        <a href="Omkareshwar-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-                </div>
-            </div>
-            <div class="card">
+            </div></a>
+           <a href="Pandharpur-details.php"> <div class="card">
                 <img src="bootstrap/images/tour015.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -333,16 +342,18 @@
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                        
                     </div>
 
-                    <div class="buttons">
-                        <button class="card-button">Trip Details</button>
+                   
+                </div>
+                <div class="card-content-buttons">
+                        <a href="Pandharpur-details.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-                </div>
-            </div>
-            <div class="card">
+            </div></a>
+           <a href="Shimla - Kullu.php">
+           <div class="card">
                 <img src="bootstrap/images/tour016.png" />
                 <div class="card-content">
                     <div class="d-card-flex-inline">
@@ -355,12 +366,14 @@
                         <p>2 Adults</p>
                     </div>
 
-                    <div class="buttons">
-                        <button class="card-button">Trip Details</button>
+                   
+                </div>
+                <div class="card-content-buttons">
+                        <a href="Shimla - Kullu.php" class="card-button">Trip Details</a>
                         <button class="card-button-fill">Book</button>
                     </div>
-                </div>
             </div>
+           </a>
             <!-- Add more cards here if needed -->
         </div>
         <button class="nav-btn next-btn" onclick="scrollCards(1)">❯</button>
@@ -425,8 +438,7 @@
 </section>
 <section class="container-div gray-div margin-top fade-in-on-scroll">
     <h2>Why choose Prawas Tours ?</h2>
-    <p class="container-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae
-        condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc. Cras elementum pretium.
+    <p class="container-p">Choose Prawas Tours for expertly curated travel experiences, personalized service, and unforgettable journeys that go beyond the ordinary
     </p>
     <div class="service-div">
         <div class="service-inner-div">
@@ -529,8 +541,7 @@
 </section>
 <section class="container-div gray-div fade-in-on-scroll">
     <h2>Popular Destinations</h2>
-    <p class="container-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae
-        condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc. Cras elementum pretium.
+    <p class="container-p">Discover the world's most popular destinations, where culture, adventure, and breathtaking beauty come together to create unforgettable memories.
     </p>
     <div class="cardtTabs">
         <div class="cardtTab active" onclick="showcardtTab('all')">ALL</div>
@@ -539,7 +550,7 @@
         <div class="cardtTab" onclick="showcardtTab('recommended')">RECOMMENDED</div>
     </div>
     <div class="carousel-container">
-        <button class="nav-btn prev-btn" onclick="scrollCardsDest(-1)">❮</button>
+        <button class="nav-btn-popular prev-btn" onclick="scrollCardsDest(-1)">❮</button>
         <div id="all" class="cardtTab-content active">
 
             <div class="tour-cards DestContainer">
@@ -721,14 +732,12 @@
             </div>
         </div>
 
-        <button class="nav-btn next-btn" onclick="scrollCardsDest(1)">❯</button>
+        <button class="nav-btn-popular next-btn" onclick="scrollCardsDest(1)">❯</button>
     </div>
 
 
-    <p class="container-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis laboriosam porro sequi
-        provident quae, accusamus ea voluptates eligendi dolorem cumque iusto qui quod odio voluptas aliquam adipisci,
-        est vitae. Enim!</p>
-    <div class="text-center"> <button class="container-button">Book</button>
+
+    <div class="text-center mt-3"> <button class="container-button">Book</button>
     </div>
 </section>
 <section>

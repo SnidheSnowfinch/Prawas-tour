@@ -7,6 +7,12 @@
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <link rel="stylesheet" href="bootstrap/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+
+
 
  
 </head>
@@ -27,7 +33,7 @@
      
       <div class="nav-item">
       <a href="#" class="nav-link">Group Tour Packages</a>
-      <div class="dropdown">
+      <div class="dropdown custom-scroll">
         <a href="#">Mahabaleshwar – Pratapgad</a>
         <a href="#">Panch Jyotirling</a>
         <a href="#">Bhimashankar</a>

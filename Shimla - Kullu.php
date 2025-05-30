@@ -3,7 +3,7 @@
     <img src="bootstrap/images/Ashtavinayak/tour-page-banner-ashtavinayak.png" alt="">
     <div class="header-overlay-detail">
         <h1>
-            Diveagar – Dapoli - Kelshi</h1>
+        Shimla - Kullu - Manali</h1>
         <p>Home / Tour-Details</p>
     </div>
 </div>
@@ -25,44 +25,56 @@
 
 
             <div id="information" class="tab-content active">
-                <h2 class="text-left">Ashtavinayak Darshan <span class="price-text">Rs.2590</span> <span
-                        class="p-text">/ per person</span></h2>
-                <div class="tab-div">Day 1</div>
+                <h2 class="text-left">Shimla - Kullu - Manali<span class="price-text">Rs.19990</span> <span
+                        class="p-text">/ per person <h5>+ Flight</h5></span></h2>
+                <div class="tab-div">Day - 1 Arrival in Chandigarh - Journey to Shimla</div>
                 <div class="tab-area">
-                    <p>Departure from Pune to Murud Janjira.</p>
-                    <p>Visit Janjira Fort with sailboat Experience.</p>
-                    <p>Proceed to Diveagar.</p>
-                    <p>Evening free time at the beach.</p>
-                    <p>Overnight stay at Diveagar.</p>
-
+                    <p>Arrive at Chandigarh Airport/Railway Station.</p>
+                    <p>Travel to Shimla by road.</p>
+                    <p>Check-in at the Hotel. Leisure time.</p>
+                    <p>Dinner & overnight stay.</p>
 
                 </div>
-                <div class="tab-div">Day 2</div>
+                <div class="tab-div">Day - 2 Shimla - Kufri Excursion</div>
                 <div class="tab-area">
-                    <p>Proceed to Harihareshwar for Kalbhairav and Kashivishweshwar Darshan.</p>
-                    <p>Visit Mahalaxmi Mandir and Yakub Baba Darga at Kelshi.
-                    </p>
-                    <p>Visit kadyavarcha Ganpati and panoramic View of Suvarndurg Fort.
-                    </p>
-                    <p>Fort evening free time at the beach.
-                    </p>
-                    <p>Overnight Stay at Dapoli.</p>
+                    <p>Visit Kufri: Mahasu Peak, Chini Bungalow, Indira Tourist Park.</p>
+                    <p>Explore Vice Regal Lodge.</p>
+                    <p>Stroll on Mall Road in the evening.</p>
+                    <p>Dinner & overnight stay.</p>
                 </div>
-                <div class="tab-div">Day 3</div>
+                <div class="tab-div">Day - 3 Shimla to Manali</div>
                 <div class="tab-area">
-                    <p>Visit Asud Vyangreshwar Mandir.</p>
-                    <p>Walk through betel nut and coconut farms.</p>
-                    <p>Proceed to Pune and Night arrival at Pune.</p>
+                    <p>Drive to Manali (2050m altitude).</p>
+                    <p>Check-in at the Hotel. Evening Leisure time.</p>
+                    <p>Visit Manali market & Mall Road.</p>
+                    <p>Dinner & overnight stay.</p>
                 </div>
-
+                <div class="tab-div">Day - 4 Manali Sightseeing</div>
+                <div class="tab-area">
+                    <p>Visit Hadimba Devi Temple, Jagatsukh village, Vashisht Kund.</p>
+                    <p>Explore Tibetan Monastery & Handcraft Centre.</p>
+                    <p>Walk through Old Vashisht village.</p>
+                    <p>Dinner & overnight stay.</p>
+                </div>
+                <div class="tab-div">Day - 5 Solang VAlley Excursion</div>
+                <div class="tab-area">
+                    <p>Enjoy adventure activities: Skiing, Horse/Yak Riding, Paragliding, Zorbing.</p>
+                    <p>Explore Manali market & try local delicacies.</p>
+                    <p>Dinner & overnight stay.</p>
+                </div>
+                <div class="tab-div">Day - 6 Departure from Manali to Chandigarh</div>
+                <div class="tab-area">
+                    <p>Early breakfast & check-out.</p>
+                    <p>Transfer to Chandigarh Airport/Railway Station.</p>
+                </div>
 
                 <div class="tab-div">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-12">
-                            <i class="bi bi-calendar me-2"></i>Every Friday | 3 Days / 2 Night
+                            <i class="bi bi-calendar me-2"></i>Every Day | 6 Days / 5 Nights
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12"><i class="bi bi-map me-2"></i>
-                            Diveagar – Dapoli - Kelshi
+                        Shimla - Kullu - Manali
                         </div>
                     </div>
                 </div>
@@ -74,25 +86,27 @@
                 <div class="table">
                     <div class="table-row row">
                         <div class="col-lg-4 col-sm-12"><strong>Departure</strong></div>
-                        <div class="col-lg-8 col-sm-12 "><span class="p-text">Pune</span></div>
+                        <div class="col-lg-8 col-sm-12 "><span class="p-text">Chandigarh</span></div>
                     </div>
                     <div class="table-row row">
                         <div class="col-lg-4 col-sm-12"><strong>Departure Time</strong></div>
-                        <div class="col-lg-8 col-sm-12"><span class="p-text">07:00 am</span></div>
+                        <div class="col-lg-8 col-sm-12"><span class="p-text">-</span></div>
                     </div>
                     <div class="table-row row">
                         <div class="col-lg-4 col-sm-12"><strong>Return Time</strong></div>
-                        <div class="col-lg-8 col-sm-12"><span class="p-text">Night arrival at Pune.</span></div>
+                        <div class="col-lg-8 col-sm-12"><span class="p-text">-</span></div>
                     </div>
                     <div class="table-row row">
                         <div class="col-lg-4 col-sm-12"><strong>Include</strong></div>
                         <div class="col-lg-8 col-sm-12">
                             <div class="row">
-                                <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Veg Meals</p>
+                               
+                            
+                            <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
+                                        <p class="p-text"> Breakfast</p>
                                     </span> </div>
                                 <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Breakfast Lunch & Dinner</p>
+                                        <p class="p-text">Dinner</p>
                                     </span></div>
                                 <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
                                         <p class="p-text">Toll & Parking</p>
@@ -100,6 +114,7 @@
                                 <div class="col-lg-6 col-sm-12 "><span class="d-flex mb-2"><i class="include">✓</i>
                                         <p class="p-text">Accommodation</p>
                                     </span></div>
+                              
                             </div>
                         </div>
                     </div>
@@ -126,8 +141,7 @@
                     <div class="col-lg-4 col-sm-12"><strong>Price
                         </strong></div>
                     <div class="col-lg-8 col-sm-12 ">
-                        <p>Rs. 7500/- Per Person | AC Bus | Family Non-Ac |
-                            Deluxe Room</p>
+                        <p>Rs. 19990/- Per Person + Flight | AC Room</p>
                     </div>
                 </div>
 
@@ -135,30 +149,42 @@
             </div>
             <div id="plan" class="tab-content ">
                 <h2 class="text-left">Tour Plan</h2>
-                <div class="tab-div">Day 1</div>
+                <div class="tab-div">Day 1 Arrival in Chandigarh - Journey to Shimla</div>
                 <div class="tab-area">
-                    <p>Departure from Pune at 7 am to Murud Janjira. En route breakfast . Proceed to Murud Janjira
-                        On
-                        arrival Visit Janira Fort. Experience the Sail boat from Murud to Janjira. After lunch
-                        proceed
-                        to Diveagar. Evening free at Beach. Overnight stay at Diveagar.</p>
+                    <p>Arrive at Chandigarh Airport/Railway Station.</p>
+                    <p>Travel to Shimla by road.</p>
+                    <p>Check-in at the Hotel. Leisure time.</p>
+                    <p>Dinner & overnight stay.</p>
                 </div>
-                <div class="tab-div">Day 2</div>
+                <div class="tab-div">Day 2 Shimla - Kufri Excursion</div>
                 <div class="tab-area">
-                    <p>After breakfast proceed to Harihareshwar. known as Dakshin kashi. Darshan of Kalbhairav and
-                        Kashi
-                        Vishweshvar. Lunch . Proceed to Kelashi, visit Mahalaxmi Mandir, Yakub baba dargah . After
-                        lunch
-                        proceed to Anjarle. Visit Kadyavarcha Ganpati and panoramic view for Suvarndurg fort .
-                        Evening
-                        free at Beach. Overnight stay at Dapoli.</p>
+                    <p>Visit Kufri: 1) Mahasu Peak 2) Chini Bungalow 3) Indira Tourist Park. Explore Vice Regal Lodge. Stroll on Mall Road in the evening. Dinner & overnight stay.</p>
                 </div>
-                <div class="tab-div">Day 3</div>
+                <div class="tab-div">Day 3 Shimla to Manali</div>
                 <div class="tab-area">
-                    <p>After breakfast visit Asud Vyaghreshwar Mandir , lies on the riverbank, a walk through the
-                        Beetle
-                        nuts & Coconuts farms, Lunch. Proceed to Pune. Night arrival at Pune.</p>
+                    <p>Drive to Manali (2050m altitude).</p>
+                    <p>Check-in at the Hotel. Evening Leisure time.</p>
+                    <p>Visit Manali market & Mall Road.</p>
+                    <p>Dinner & overnight stay.</p>
                 </div>
+              
+                <div class="tab-div">Day 4 Manali Sightseeing</div>
+                <div class="tab-area">
+                    <p>Visit: 1) Hadimba Devi Temple 2) Jagatsukh village 3) Vashisht Kund 4) Explore Tibetan Monastery & Handcraft Centre
+                    5) Walk through Old Vashisht village. Dinner & overnight stay.</p>
+                </div>
+                <div class="tab-div">Day 5 Solang VAlley Excursion</div>
+                <div class="tab-area">
+                    <p>Enjoy adventure activities: Skiing, Horse/Yak Riding, Paragliding, Zorbing.</p>
+                    <p>Explore Manali market & try local delicacies.</p>
+                    <p>Dinner & overnight stay.</p>
+                </div>
+                <div class="tab-div">Day 6 Departure from Manali to Chandigarh</div>
+                <div class="tab-area">
+                    <p>Early breakfast & check-out.</p>
+                    <p>Transfer to Chandigarh Airport/Railway Station.</p>
+                </div>
+
 
             </div>
 
@@ -175,28 +201,28 @@
                 <h2 class="text-c-center">Gallery</h2>
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination1.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shimla/shimla-page-destination1.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination2.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shimla/shimla-page-destination2.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination3.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shimla/shimla-page-destination3.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination4.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shimla/shimla-page-destination4.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination5.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shimla/shimla-page-destination5.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination6.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shimla/shimla-page-destination6.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination7.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shimla/shimla-page-destination7.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination8.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shimla/shimla-page-destination8.png" alt="" class="tab-inner-img">
                     </div>
 
 

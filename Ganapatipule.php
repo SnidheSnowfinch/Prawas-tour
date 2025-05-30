@@ -25,7 +25,7 @@
 
 
             <div id="information" class="tab-content active">
-                <h2 class="text-left">Ashtavinayak Darshan <span class="price-text">Rs.2590</span> <span
+                <h2 class="text-left">Ganapatipule – Guhagar <span class="price-text">Rs.7500</span> <span
                         class="p-text">/ per person</span></h2>
                 <div class="tab-div">Day 1</div>
                 <div class="tab-area">
@@ -123,7 +123,7 @@
                     <div class="col-lg-4 col-sm-12"><strong>Price
                         </strong></div>
                     <div class="col-lg-8 col-sm-12 ">
-                        <p>Rs. 75000/- Per Person | AC Bus | Family Non-Ac |
+                        <p>Rs. 7500/- Per Person | AC Bus | Family Non-Ac |
                             Deluxe Room</p>
                     </div>
                 </div>

@@ -3,7 +3,7 @@
     <img src="bootstrap/images/Ashtavinayak/tour-page-banner-ashtavinayak.png" alt="">
     <div class="header-overlay-detail">
         <h1>
-            Diveagar – Dapoli - Kelshi</h1>
+        Shri Shani Shingnapur - Shirdi</h1>
         <p>Home / Tour-Details</p>
     </div>
 </div>
@@ -25,44 +25,25 @@
 
 
             <div id="information" class="tab-content active">
-                <h2 class="text-left">Ashtavinayak Darshan <span class="price-text">Rs.2590</span> <span
+                <h2 class="text-left">Shri Shani Shingnapur - Shirdi <span class="price-text">Rs.999</span> <span
                         class="p-text">/ per person</span></h2>
                 <div class="tab-div">Day 1</div>
                 <div class="tab-area">
-                    <p>Departure from Pune to Murud Janjira.</p>
-                    <p>Visit Janjira Fort with sailboat Experience.</p>
-                    <p>Proceed to Diveagar.</p>
-                    <p>Evening free time at the beach.</p>
-                    <p>Overnight stay at Diveagar.</p>
+                    <p>Departure from Pune at 07:00 am.</p>
+                    <p>Shani Shingnapur Darshan.</p>
+                    <p>Shirdi Shri Sai Baba Darshan.</p>
+                    <p>Night 10:00 pm return to Pune.</p>
 
 
                 </div>
-                <div class="tab-div">Day 2</div>
-                <div class="tab-area">
-                    <p>Proceed to Harihareshwar for Kalbhairav and Kashivishweshwar Darshan.</p>
-                    <p>Visit Mahalaxmi Mandir and Yakub Baba Darga at Kelshi.
-                    </p>
-                    <p>Visit kadyavarcha Ganpati and panoramic View of Suvarndurg Fort.
-                    </p>
-                    <p>Fort evening free time at the beach.
-                    </p>
-                    <p>Overnight Stay at Dapoli.</p>
-                </div>
-                <div class="tab-div">Day 3</div>
-                <div class="tab-area">
-                    <p>Visit Asud Vyangreshwar Mandir.</p>
-                    <p>Walk through betel nut and coconut farms.</p>
-                    <p>Proceed to Pune and Night arrival at Pune.</p>
-                </div>
-
 
                 <div class="tab-div">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-12">
-                            <i class="bi bi-calendar me-2"></i>Every Friday | 3 Days / 2 Night
+                            <i class="bi bi-calendar me-2"></i>Every Day | one Day Trip
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12"><i class="bi bi-map me-2"></i>
-                            Diveagar – Dapoli - Kelshi
+                        Shri Shani Shingnapur - Shirdi
                         </div>
                     </div>
                 </div>
@@ -88,18 +69,12 @@
                         <div class="col-lg-4 col-sm-12"><strong>Include</strong></div>
                         <div class="col-lg-8 col-sm-12">
                             <div class="row">
-                                <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Veg Meals</p>
-                                    </span> </div>
-                                <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Breakfast Lunch & Dinner</p>
-                                    </span></div>
+                               
+                            
                                 <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
                                         <p class="p-text">Toll & Parking</p>
                                     </span></div>
-                                <div class="col-lg-6 col-sm-12 "><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Accommodation</p>
-                                    </span></div>
+                              
                             </div>
                         </div>
                     </div>
@@ -116,7 +91,7 @@
                                         <p class="p-text">VIP Entrance Fee</p>
                                     </span></div>
                                 <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="not-include">✗</i>
-                                        <p class="p-text">Last Day Dinner and Water Bottles</p>
+                                        <p class="p-text">Water Bottles</p>
                                     </span></div>
                             </div>
                         </div>
@@ -126,8 +101,7 @@
                     <div class="col-lg-4 col-sm-12"><strong>Price
                         </strong></div>
                     <div class="col-lg-8 col-sm-12 ">
-                        <p>Rs. 7500/- Per Person | AC Bus | Family Non-Ac |
-                            Deluxe Room</p>
+                        <p>Rs. 999/- Per Person | Non-AC Bus | Family Non-Ac Deluxe Room</p>
                     </div>
                 </div>
 
@@ -137,27 +111,7 @@
                 <h2 class="text-left">Tour Plan</h2>
                 <div class="tab-div">Day 1</div>
                 <div class="tab-area">
-                    <p>Departure from Pune at 7 am to Murud Janjira. En route breakfast . Proceed to Murud Janjira
-                        On
-                        arrival Visit Janira Fort. Experience the Sail boat from Murud to Janjira. After lunch
-                        proceed
-                        to Diveagar. Evening free at Beach. Overnight stay at Diveagar.</p>
-                </div>
-                <div class="tab-div">Day 2</div>
-                <div class="tab-area">
-                    <p>After breakfast proceed to Harihareshwar. known as Dakshin kashi. Darshan of Kalbhairav and
-                        Kashi
-                        Vishweshvar. Lunch . Proceed to Kelashi, visit Mahalaxmi Mandir, Yakub baba dargah . After
-                        lunch
-                        proceed to Anjarle. Visit Kadyavarcha Ganpati and panoramic view for Suvarndurg fort .
-                        Evening
-                        free at Beach. Overnight stay at Dapoli.</p>
-                </div>
-                <div class="tab-div">Day 3</div>
-                <div class="tab-area">
-                    <p>After breakfast visit Asud Vyaghreshwar Mandir , lies on the riverbank, a walk through the
-                        Beetle
-                        nuts & Coconuts farms, Lunch. Proceed to Pune. Night arrival at Pune.</p>
+                    <p>Morning departure from Pune at 7:00 am. night 10 pm return to Pune. 12.30 pm Arrival at Shirdi Shri Sai Baba Darshan & Evening 5:00 pm Back to Shirdi to Pune night arrival at 11:00 pm</p>
                 </div>
 
             </div>
@@ -175,28 +129,28 @@
                 <h2 class="text-c-center">Gallery</h2>
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination1.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shri Shani/Shri Shani-destination1.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination2.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shri Shani/Shri Shani-destination2.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination3.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shri Shani/Shri Shani-destination3.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination4.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shri Shani/Shri Shani-destination4.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination5.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shri Shani/Shri Shani-destination5.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination6.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shri Shani/Shri Shani-destination6.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination7.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shri Shani/Shri Shani-destination7.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination8.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Shri Shani/Shri Shani-destination8.png" alt="" class="tab-inner-img">
                     </div>
 
 

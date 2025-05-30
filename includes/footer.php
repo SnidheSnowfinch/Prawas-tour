@@ -1,18 +1,17 @@
 <footer>
     <div class="footer-container">
   
-      <!-- Logo and description -->
       <div class="footer-logo">
         <img src="bootstrap/images/Prawas_logo_round.png.png" alt="logo">
         <h2>Prawas Tours</h2>
         <p>Welcome to Prawas Tours and Travel, your trusted companion for discovering the diverse beauty of Maharashtra.</p>
         <div class="social-icons">
           <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-google"></i></a>
+          <a href="#"><i class="bi bi-instagram"></i></a>
         </div>
       </div>
   
-      <!-- Quick Links -->
+      
       <div class="footer-section">
         <h4>Quick Links</h4>
         <ul>
@@ -22,17 +21,17 @@
         </ul>
       </div>
   
-      <!-- Contact -->
+     
       <div class="footer-section footer-contact">
         <h4>Contact</h4>
         <ul>
-          <li><i class="bi bi-telephone-fill"></i> +91 8806082965 & +91 9561292863</li>
-          <li><i class="bi bi-envelope-fill"></i> prawastours@gmail.com</li>
-          <li><i class="bi bi-geo-alt-fill"></i> Shop No.1, Kharade Building, Pune-Nashik Road, Near Nulife Hospital,<br> Gavthan Vasti, Bhosari, Pune – 411039</li>
+          <li><i class="bi bi-telephone-fill"></i> <label for=""><label for="">+91 8806082965</label><br><label for="">+91 9561292863</label></label></li>
+          <li><i class="bi bi-envelope-fill"></i> <label for="">prawastours@gmail.com</label></li>
+          <li><i class="bi bi-geo-alt-fill"></i> <label for="">Shop No.1, Kharade Building, Pune-Nashik Road, Near Nulife Hospital, Gavthan Vasti, Bhosari, Pune – 411039</label></li>
         </ul>
       </div>
   
-      <!-- Gallery -->
+     
       <div class="footer-section">
         <h4>Gallery</h4>
         <div class="footer-gallery">
@@ -75,14 +74,7 @@
           document.getElementById(cardtTabId).classList.add('active');
       }
   
-      // function scrollCardsDest(direction) {
-      //     const container = document.getElementById("DestContainer");
-      //     const scrollAmount = 330; // adjust based on card width
-      //     container.scrollBy({
-      //         left: direction * scrollAmount,
-      //         behavior: "smooth"
-      //     });
-      // }
+    
       function scrollCardsDest(direction) {
     const activeTabContent = document.querySelector('.cardtTab-content.active');
 
@@ -101,31 +93,21 @@
 
       function scrollfactDest(direction) {
           const container = document.getElementById("fact-div");
-          const scrollAmount = 150; // adjust based on card width
+          const scrollAmount = 150; 
           container.scrollBy({
               left: direction * scrollAmount,
               behavior: "smooth"
           });
       }
-      // function scrollCards(direction) {
-      //     const container = document.getElementById("cardContainer");
-      //     const scrollAmount = 321; // adjust based on card width
-      //     container.scrollBy({
-      //         left: direction * scrollAmount,
-      //         behavior: "smooth"
-      //     });
-      // }
+  
       function scrollCards(direction) {
     const container = document.getElementById("cardContainer");
 
-    // Define scroll amounts for different devices
     const desktopScrollAmount = 352;
     const mobileScrollAmount = 280;
 
-    // Determine current screen size
-    const isMobile = window.innerWidth <= 768; // You can adjust the breakpoint as needed
+    const isMobile = window.innerWidth <= 768; 
 
-    // Choose scroll amount based on device type
     const scrollAmount = isMobile ? mobileScrollAmount : desktopScrollAmount;
 
     container.scrollBy({
@@ -292,9 +274,9 @@
     document.addEventListener("DOMContentLoaded", () => {
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
-      console.log("Observed:", entry.target); // Debug line
+      console.log("Observed:", entry.target);
       if (entry.isIntersecting) {
-        console.log("Showing:", entry.target); // Debug line
+        console.log("Showing:", entry.target); 
         entry.target.classList.add('show');
         observer.unobserve(entry.target);
       }
@@ -315,7 +297,7 @@ window.addEventListener('DOMContentLoaded', () => {
           const value = bar.getAttribute('data-value');
           bar.style.width = value + '%';
         });
-      }, 100); // Small delay ensures animation
+      }, 100); 
     });
   </script>
   <script src="bootstrap/js/bootstrap.bundle.min.js"></script>

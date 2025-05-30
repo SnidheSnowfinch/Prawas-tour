@@ -3,7 +3,7 @@
     <img src="bootstrap/images/Ashtavinayak/tour-page-banner-ashtavinayak.png" alt="">
     <div class="header-overlay-detail">
         <h1>
-            Diveagar – Dapoli - Kelshi</h1>
+        Omkareshwar - Indore - Ujjain</h1>
         <p>Home / Tour-Details</p>
     </div>
 </div>
@@ -25,44 +25,55 @@
 
 
             <div id="information" class="tab-content active">
-                <h2 class="text-left">Ashtavinayak Darshan <span class="price-text">Rs.2590</span> <span
+                <h2 class="text-left">Omkareshwar - Indore - Ujjain<span class="price-text">Rs.11500</span> <span
                         class="p-text">/ per person</span></h2>
                 <div class="tab-div">Day 1</div>
                 <div class="tab-area">
-                    <p>Departure from Pune to Murud Janjira.</p>
-                    <p>Visit Janjira Fort with sailboat Experience.</p>
-                    <p>Proceed to Diveagar.</p>
-                    <p>Evening free time at the beach.</p>
-                    <p>Overnight stay at Diveagar.</p>
-
+                    <p>Departure from Pune to Indore at 08:00 pm (AC Sleeper Bus).</p>
 
                 </div>
                 <div class="tab-div">Day 2</div>
                 <div class="tab-area">
-                    <p>Proceed to Harihareshwar for Kalbhairav and Kashivishweshwar Darshan.</p>
-                    <p>Visit Mahalaxmi Mandir and Yakub Baba Darga at Kelshi.
-                    </p>
-                    <p>Visit kadyavarcha Ganpati and panoramic View of Suvarndurg Fort.
-                    </p>
-                    <p>Fort evening free time at the beach.
-                    </p>
-                    <p>Overnight Stay at Dapoli.</p>
+
+                <p>12:00 pm Check-in at the Hotel.</p>
+                <p>Afetr Breakfast Proceed to Ujjain.</p>
+                <p>Visit Mahakaleshwar Temple and Kal Bhairav Temple.</p>
+                <p>Gopal Mandir and Ganesh Temple.</p>
+                <p>Return to Indore for an Overnight stay.</p>
                 </div>
                 <div class="tab-div">Day 3</div>
                 <div class="tab-area">
-                    <p>Visit Asud Vyangreshwar Mandir.</p>
-                    <p>Walk through betel nut and coconut farms.</p>
-                    <p>Proceed to Pune and Night arrival at Pune.</p>
+                    <p>After Breakfast, visit to Omkareshwar Jyotirling Darshan.</p>
+                    <p>Then explore Maheshwar's Temple.</p>
+                    <p>Overnight Stay in Indore.</p>
+
+
                 </div>
+                <div class="tab-div">Day 4</div>
+                <div class="tab-area">
+                    <p>After Breakfast, visit to Rajwada Palace.</p>
+                    <p>Kanch Mandir.</p>
+                    <p>Indore Museum.</p>
+                    <p>Bijasen Temple.</p>
+                    <p>Lal Bagh Palace.</p>
+                    <p>Drop at Bus Point Indore overnight Journey Indore to Pune.</p>
+
+
+                </div>
+                <div class="tab-div">Day 5</div>
+                <div class="tab-area">
+                    <p>08:00 am Arrival in Pune.</p>
+                </div>
+
 
 
                 <div class="tab-div">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-12">
-                            <i class="bi bi-calendar me-2"></i>Every Friday | 3 Days / 2 Night
+                            <i class="bi bi-calendar me-2"></i>Every Day | 5 Days / 4 Night
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12"><i class="bi bi-map me-2"></i>
-                            Diveagar – Dapoli - Kelshi
+                        Omkareshwar - Indore - Ujjain
                         </div>
                     </div>
                 </div>
@@ -78,28 +89,30 @@
                     </div>
                     <div class="table-row row">
                         <div class="col-lg-4 col-sm-12"><strong>Departure Time</strong></div>
-                        <div class="col-lg-8 col-sm-12"><span class="p-text">07:00 am</span></div>
+                        <div class="col-lg-8 col-sm-12"><span class="p-text">08:00 pm</span></div>
                     </div>
                     <div class="table-row row">
                         <div class="col-lg-4 col-sm-12"><strong>Return Time</strong></div>
-                        <div class="col-lg-8 col-sm-12"><span class="p-text">Night arrival at Pune.</span></div>
+                        <div class="col-lg-8 col-sm-12"><span class="p-text"> Morning arrival at Pune.</span></div>
                     </div>
                     <div class="table-row row">
                         <div class="col-lg-4 col-sm-12"><strong>Include</strong></div>
                         <div class="col-lg-8 col-sm-12">
                             <div class="row">
-                                <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Veg Meals</p>
-                                    </span> </div>
-                                <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Breakfast Lunch & Dinner</p>
+                               
+                            <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
+                                        <p class="p-text">Veg Meal</p>
+                                    </span></div>
+                                    <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
+                                        <p class="p-text">Breakfast Tea, Dinner</p>
+                                    </span></div>
+                                    <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
+                                        <p class="p-text">Accommodation</p>
                                     </span></div>
                                 <div class="col-lg-6 col-sm-12"><span class="d-flex mb-2"><i class="include">✓</i>
                                         <p class="p-text">Toll & Parking</p>
                                     </span></div>
-                                <div class="col-lg-6 col-sm-12 "><span class="d-flex mb-2"><i class="include">✓</i>
-                                        <p class="p-text">Accommodation</p>
-                                    </span></div>
+                              
                             </div>
                         </div>
                     </div>
@@ -126,8 +139,7 @@
                     <div class="col-lg-4 col-sm-12"><strong>Price
                         </strong></div>
                     <div class="col-lg-8 col-sm-12 ">
-                        <p>Rs. 7500/- Per Person | AC Bus | Family Non-Ac |
-                            Deluxe Room</p>
+                        <p>Rs. 11500/- Per Person | AC Bus | Family Ac Deluxe Room</p>
                     </div>
                 </div>
 
@@ -137,27 +149,23 @@
                 <h2 class="text-left">Tour Plan</h2>
                 <div class="tab-div">Day 1</div>
                 <div class="tab-area">
-                    <p>Departure from Pune at 7 am to Murud Janjira. En route breakfast . Proceed to Murud Janjira
-                        On
-                        arrival Visit Janira Fort. Experience the Sail boat from Murud to Janjira. After lunch
-                        proceed
-                        to Diveagar. Evening free at Beach. Overnight stay at Diveagar.</p>
+                    <p>Departure from Pune to Indore at 09:00 pm (AC Sleeper Bus).</p>
                 </div>
                 <div class="tab-div">Day 2</div>
                 <div class="tab-area">
-                    <p>After breakfast proceed to Harihareshwar. known as Dakshin kashi. Darshan of Kalbhairav and
-                        Kashi
-                        Vishweshvar. Lunch . Proceed to Kelashi, visit Mahalaxmi Mandir, Yakub baba dargah . After
-                        lunch
-                        proceed to Anjarle. Visit Kadyavarcha Ganpati and panoramic view for Suvarndurg fort .
-                        Evening
-                        free at Beach. Overnight stay at Dapoli.</p>
+                    <p>12:00 pm Check-in at the Hotel. Afetr Breakfast Proceed to Ujjain. Visit Mahakaleshwar Temple and Kal Bhairav Temple. Gopal Mandir and Ganesh Temple. Return to Indore for an Overnight stay.</p>
                 </div>
                 <div class="tab-div">Day 3</div>
                 <div class="tab-area">
-                    <p>After breakfast visit Asud Vyaghreshwar Mandir , lies on the riverbank, a walk through the
-                        Beetle
-                        nuts & Coconuts farms, Lunch. Proceed to Pune. Night arrival at Pune.</p>
+                    <p>After Breakfast, visit to Omkareshwar Jyotirling Darshan. Then explore Maheshwar's Temple. Overnight Stay in Indore.</p>
+                </div>
+                <div class="tab-div">Day 4</div>
+                <div class="tab-area">
+                    <p>After Breakfast, visit to 1) Rajwada Palace. 2) Kanch Mandir. 3) Indore Museum. 4) Bijasen Temple. 5) Lal Bagh Palace. 6) Drop at Bus Point Indore overnight Journey Indore to Pune.</p>
+                </div>
+                <div class="tab-div">Day 5</div>
+                <div class="tab-area">
+                    <p>Morning 08:00 am Arrival in Pune.</p>
                 </div>
 
             </div>
@@ -175,28 +183,28 @@
                 <h2 class="text-c-center">Gallery</h2>
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination1.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Omkareshwar/Omkareshwar-destination1.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination2.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Omkareshwar/Omkareshwar-destination2.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination3.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Omkareshwar/Omkareshwar-destination3.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination4.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Omkareshwar/Omkareshwar-destination4.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination5.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Omkareshwar/Omkareshwar-destination5.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination6.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Omkareshwar/Omkareshwar-destination6.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination7.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Omkareshwar/Omkareshwar-destination7.png" alt="" class="tab-inner-img">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-12 text-center"><img
-                            src="bootstrap/images/Diveagar/diveagar-destination8.png" alt="" class="tab-inner-img">
+                            src="bootstrap/images/Omkareshwar/Omkareshwar-destination8.png" alt="" class="tab-inner-img">
                     </div>
 
 
