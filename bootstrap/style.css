@@ -1173,9 +1173,11 @@ header h1,.header-about h1,.header-package h1 {
 }
 .container-tab-new{
   display: flex
-;
-        padding-top: 20px;
-        justify-content: space-between;
+  ;
+          padding-top: 20px;
+          justify-content: space-between;
+          flex-direction: column-reverse;
+      
 }
   .fecility-div{
     margin-top: 45px;
@@ -1299,7 +1301,7 @@ header h1,.header-about h1,.header-package h1 {
     .margin-top-home{
       margin-top: 80px;
     }
-}
+  }
 @media (min-width: 768px) and (max-width: 1024px) {
   
 .tabs {
