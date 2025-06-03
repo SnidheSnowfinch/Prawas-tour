@@ -5,10 +5,10 @@
         <p>Home / Package</p>
     </div>
 </div>
-<div class="container-div">
+<div class="container-div-large">
 
 
-    <div class="container-tab">
+    <div class="container-tab-new">
 
         <div>
             <div class="tabs">
@@ -75,15 +75,10 @@
     <h2>Popular Destinations</h2>
     <p class="container-p">Discover the world's most popular destinations, where culture, adventure, and breathtaking beauty come together to create unforgettable memories.
     </p>
-    <div class="cardtTabs">
-        <div class="cardtTab active" onclick="showcardtTab('all')">ALL</div>
-        <div class="cardtTab" onclick="showcardtTab('budget')">BUDGET FRIENDLY</div>
-        <div class="cardtTab" onclick="showcardtTab('escorted')">ESCORTED TOURS</div>
-        <div class="cardtTab" onclick="showcardtTab('recommended')">RECOMMENDED</div>
-    </div>
+  
     <div class="carousel-container">
         <button class="nav-btn-popular prev-btn" onclick="scrollCardsDest(-1)">❮</button>
-        <div id="all" class="cardtTab-content active">
+        <div  class="cardtTab-content">
 
             <div class="tour-cards DestContainer">
                 <!-- Repeatable Card -->
@@ -91,7 +86,7 @@
                 <img src="bootstrap/images/tour01.png" />                    <div class="card-content-popular">
                        
                 <h3>Ashtavinayak Darshan</h3>
-                <h3 class="price">₹ 2590</h3>
+                
                       
                        
 
@@ -104,7 +99,7 @@
                     <div class="card-content-popular">
                        
                     <h3>Aurangabad - Ajanta - Ellora</h3>
-                    <h3 class="price">₹ 4990</h3>                      
+                                        
                        
 
 
@@ -116,7 +111,7 @@
                     <div class="card-content-popular">
                        
                     <h3>Mahabaleshwar – Pratapgad</h3>
-                    <h3 class="price">₹ 4990</h3>                      
+                                     
                        
 
 
@@ -127,7 +122,7 @@
                     <div class="card-content-popular">
                        
                     <h3>Diveagar – Dapoli - Kelshi</h3>
-                    <h3 class="price">₹ 7500</h3>                      
+                                         
                        
 
 
@@ -137,141 +132,16 @@
 
             </div>
         </div>
-        <div id="budget" class="cardtTab-content">
-            <div class="tour-cards DestContainer">
-                <!-- Repeatable Card -->
-
-
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-2.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <!-- Add more cards here if needed -->
-            </div>
-        </div>
-        <div id="escorted" class="cardtTab-content">
-            <div class="tour-cards DestContainer">
-            <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-2.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div id="recommended" class="cardtTab-content">
-            <div class="tour-cards DestContainer">
-
-            <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
+      
+  
 
         <button class="nav-btn-popular next-btn" onclick="scrollCardsDest(1)">❯</button>
     </div>
 
 
-    <div class="text-center mt-3"> <button class="container-button">Book</button>
+
     </div>
 </section>
-
 
 <?php include 'includes/footer.php' ?>
 

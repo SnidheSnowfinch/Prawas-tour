@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Lato', sans-serif;
-  background-color: #fff;
+  background-color: #fbfbfb;
   color: #333;
 }
 body p{
@@ -51,7 +51,9 @@ body p{
 .nav-links a:hover {
   color: #FA9521;
 }
-
+.search-bar button:hover {
+  background-color: #ffb129;
+}
 header {
   height: 460px;
   background: url('./images/home-img.jpg') no-repeat center center/cover;
@@ -119,7 +121,7 @@ header p,.header-about p,.header-package p {
   text-transform: uppercase;
 
   width: 120px !important;
-  background-color: #FA9521 !important;
+  background-color: #FA9521;
   color: white !important;
   border: none;
   cursor: pointer;
@@ -178,10 +180,10 @@ header p,.header-about p,.header-package p {
 
 }
 .tour-cards {
-  padding: 10px;
+  padding: 15px;
   display: flex
   ;
-      gap: 10px;
+      gap: 15px;
       overflow-x: auto;
       scroll-behavior: smooth;
       justify-content: flex-start;
@@ -213,7 +215,7 @@ header h1, .header-about h1, .header-package h1 {
   display: flex
   ;
       flex: 0 0 auto;
-      width: 330px;
+      width: 315px;
       border-radius: 0;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
       transition: transform 0.3s ease, box-shadow 0.4s ease;}
@@ -228,6 +230,8 @@ header h1, .header-about h1, .header-package h1 {
   font-weight: 600;
 }
 .card:hover {
+  background: url('./images/back-img-white.jpg') no-repeat center center/cover;
+
   transform: scale(1.02);
   box-shadow: 0 10px 20px rgba(0,0,0,0.2);
 }
@@ -239,7 +243,7 @@ header h1, .header-about h1, .header-package h1 {
   font-weight: 600;
 
   color: #303030;
-  font-size: 19px;
+  font-size: 20px;
   margin-bottom: 10px;
 }
 .card-content p{
@@ -273,6 +277,13 @@ header h1, .header-about h1, .header-package h1 {
   justify-content: space-between;
   margin-top: auto;
 }
+.card-buttons-rental {
+
+
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+}
 
 .card-button {
   text-transform: uppercase;
@@ -285,9 +296,34 @@ text-align: center;
   color: #FA9521;
   cursor: pointer;
 }
+.card-button-rental {
+  font-size: 15px;
+  text-transform: uppercase;
+text-align: center;
+  background: white;
+  flex: 1;
+  margin: 0 5px;
+  padding: 5px 8px;
+  border: 1px solid #FA9521 ;
+  color: #FA9521;
+  cursor: pointer;
+}
 .container-button {
+  border-radius: 8px;
   text-transform: uppercase;
   width: 120px;
+  margin: 0 5px;
+  padding: 8px 8px;
+  border: none;
+  background: #FA9521;
+  color: white;
+  cursor: pointer;
+}
+.card-button-fill {
+  text-align: center;
+  text-transform: uppercase;
+
+  flex: 1;
   margin: 0 5px;
   padding: 5px 8px;
   border: none;
@@ -295,7 +331,9 @@ text-align: center;
   color: white;
   cursor: pointer;
 }
-.card-button-fill {
+.card-button-rental-fill {
+  font-size: 15px;
+  text-align: center;
   text-transform: uppercase;
 
   flex: 1;
@@ -310,11 +348,20 @@ text-align: center;
   background: #ffb129;
 
 }
+.card-button-rental-fill:hover {
+  background: #ffb129;
+
+}
 .container-button:hover {
   background: #ffb129;
 
 }
 .card-button:hover {
+  color: #fff;
+  background: #ffb129;
+
+}
+.card-button-rental:hover {
   color: #fff;
   background: #ffb129;
 
@@ -455,10 +502,10 @@ text-align: center;
   margin-top: 20px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
+  gap: 12px;
 }
 .count-div h1{
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 700;
 }
 .count-div p{
@@ -678,18 +725,19 @@ text-align: center;
   /* padding: 0 20px; */
 }
 .card-new .card-content .d-card-flex .highlight {
+  text-align: center;
   font-size: 18px;
-  width: 45% !important;
+  width: 200px !important;
 }
 .card-new .card-content .d-card-flex{
   gap: 10px;
 }
 .card-new {
 
-    min-height: 400px !important;
+    min-height: 430px !important;
   display: flex
   ;
-  width: 250px !important;
+  width: 290px !important;
 }
 
 .card-new img {
@@ -810,15 +858,8 @@ text-align: center;
   border-bottom: 2px solid #FA9521;
 }
 
-.cardtTab-content {
-  display: none;
-  /* grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 20px; */
-}
 
-.cardtTab-content.active {
-  display: grid;
-}
+
 
 
 
@@ -955,14 +996,23 @@ footer {
   color: #aaa;
   margin: 10px 0;
 }
-
+.footer-section a:hover{
+  color: orange;
+}
 .social-icons a {
   color: #ccc;
   margin-right: 10px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 20px;
 }
+.social-icons a:hover {
+  color: orange;
+}
+.footer-icons a i:hover {
+  color: orange;
 
+
+}
 .footer-section {
   padding: 20px;
   flex: 1 1 160px;
@@ -1121,6 +1171,12 @@ header h1,.header-about h1,.header-package h1 {
     flex-wrap: wrap;
     flex-direction: column-reverse;
 }
+.container-tab-new{
+  display: flex
+;
+        padding-top: 20px;
+        justify-content: space-between;
+}
   .fecility-div{
     margin-top: 45px;
     display: grid;
@@ -1204,7 +1260,10 @@ header h1,.header-about h1,.header-package h1 {
     padding: 40px 20px;
     
     }
-    
+    .container-div-large{
+      padding: 40px 20px !important;
+      
+      }
   .search-bar {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -1267,6 +1326,12 @@ header h1,.header-about h1,.header-package h1 {
   .container-tab {
     display: flex;
     padding-top: 20px;
+  }
+  .container-tab-new{
+    display: flex
+;
+        padding-top: 20px;
+        justify-content: space-between;
   }
   .fecility-div{
     margin-top: 45px;
@@ -1366,6 +1431,10 @@ header h1,.header-about h1,.header-package h1 {
     padding: 50px 150px;
     
     }
+    .container-div-large{
+      padding: 50px 80px !important;
+      
+      }
     .container-div-scroll{
       padding: 50px 120px !important;
       
@@ -1403,7 +1472,10 @@ header h1,.header-about h1,.header-package h1 {
 
 }
 @media (min-width: 1025px) and (max-width: 1440px) {
-  
+  .container-div-large{
+    padding: 50px 100px !important;
+    
+    }
 .tabs {
   margin-bottom: 20px;
   display: flex;
@@ -1428,6 +1500,12 @@ header h1,.header-about h1,.header-package h1 {
   .container-tab {
     display: flex;
     padding-top: 20px;
+  }
+  .container-tab-new{
+    display: flex
+;
+        padding-top: 20px;
+        justify-content: space-between;
   }
   .fecility-div{
     margin-top: 45px;
@@ -1564,7 +1642,10 @@ header h1,.header-about h1,.header-package h1 {
 
 }
 @media (min-width: 1441px) and (max-width: 1920px) {
-  
+  .container-div-large{
+    padding: 50px 100px !important;
+    
+    }
 .tabs {
   margin-bottom: 20px;
   display: flex;
@@ -1589,6 +1670,12 @@ header h1,.header-about h1,.header-package h1 {
   .container-tab {
     display: flex;
     padding-top: 20px;
+  }
+  .container-tab-new{
+    display: flex
+;
+        padding-top: 20px;
+        justify-content: space-between;
   }
   .fecility-div{
     margin-top: 45px;
@@ -1724,7 +1811,10 @@ header h1,.header-about h1,.header-package h1 {
 
 }
 @media (min-width: 1921px) {
-  
+  .container-div-large{
+    padding: 50px 100px !important;
+    
+    }
 .tabs {
   margin-bottom: 20px;
   display: flex;
@@ -1749,6 +1839,12 @@ header h1,.header-about h1,.header-package h1 {
   .container-tab {
     display: flex;
     padding-top: 20px;
+  }
+  .container-tab-new{
+    display: flex
+;
+        padding-top: 20px;
+        justify-content: space-between;
   }
   .fecility-div{
     margin-top: 45px;
@@ -1884,6 +1980,9 @@ header h1,.header-about h1,.header-package h1 {
 
 }
 .price{
+  font-size: 19px !important;
+  text-align: center !important;
+  color: #0d47a1 !important;
   margin-bottom: 0 !important;
   min-width: 70px;
 }
@@ -2228,7 +2327,7 @@ a {
 .card-popular{
   flex: 0 0 auto;
     position: relative;
-    width: 310px;
+    width: 325px;
 
 }
 .card-popular img{
@@ -2259,4 +2358,141 @@ height: 200px;
   font-weight: 600;
   margin-bottom: 10px;
   font-size: 20px !important;
+}
+.rating-rental {
+  color: #7a7466;
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.title-rental {
+  font-family: 'Work Sans', sans-serif;
+margin-top: 8px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #0d47a1;
+}
+.review-img{
+  height: 417px;
+  object-fit: cover;
+}
+
+
+.price-rental {
+  font-size: 17px;
+  color: #fa9521;
+  font-weight: 600;
+}
+.price-rental label{
+  font-size: 15px;
+  color: #545252;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+
+.card-rental {
+  margin-top: 15px;
+  flex-direction: column;
+  min-height: 380px;
+    display: flex
+;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.card-rental:hover {
+  transform: translateY(-5px);
+}
+.card-rental-body {
+  padding: 10px 15px 0 15px;
+}
+.card-rental img {
+  width: 100%;
+  height: 160px;
+  object-fit: contain;
+  background-color: #ffffff;
+}
+@media (max-width: 500px) {
+  .card-rental img {
+    height: 140px;
+  }
+
+  .card-rental {
+    padding: 16px;
+  }
+}
+.form-container {
+  max-width: 600px;
+  background: #fff;
+  margin: auto;
+  padding: 30px 40px;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+.form-container input[type="text"],
+.form-container input[type="email"],
+.form-container select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+select:focus {
+  border-color: #0468ebdc;
+  outline: none;
+  background: #f1f9ff;
+}
+.name-row {
+  display: flex;
+  gap: 15px;
+}
+
+.name-row input {
+  flex: 1;
+}
+
+.required {
+  color: red;
+  margin-left: 5px;
+}
+@media (max-width: 480px) {
+  .name-row {
+    flex-direction: column;
+  }
+}
+#backToTopBtn {
+  height: 50px;
+  width: 50px;
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 100;
+  font-size: 22px;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  background: linear-gradient(135deg, #f98f08, #f9b560);
+  color: white;
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 50%;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;}
+
+#backToTopBtn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
 }

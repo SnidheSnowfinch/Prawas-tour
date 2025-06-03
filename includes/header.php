@@ -34,17 +34,34 @@
       <div class="nav-item">
       <a href="#" class="nav-link">Group Tour Packages</a>
       <div class="dropdown custom-scroll">
-        <a href="#">Mahabaleshwar – Pratapgad</a>
-        <a href="#">Panch Jyotirling</a>
-        <a href="#">Bhimashankar</a>
-        <a href="#">Tarkarli –Malvan–Sindhudurg</a>
-        <a href="#">Ajanta – Ellora – Aurangabad</a>
-        <a href="#">Kolhapur – Panhala</a>
-        <!-- Add more as needed -->
+      <a href="Ashtavinayak-Darshan.php">Ashtavinayak Darshan</a>
+
+        <a href="Akara-Maruti.php">Akara Maruti – Kolhapur Narasoba Wadi</a>
+        <a href="Alibag-details.php">Alibag - Nagaon - Murud Janjira</a>
+        <a href="Aurangabad-details.php">Aurangabad - Ajanta - Ellora</a>
+        <a href="Diveagar-details.php">Diveagar – Dapoli - Kelshi</a>
+        <a href="Ganapatipule.php">Ganapatipule – Guhagar</a>
+        <a href="Mahabaleshwar-details.php">Mahabaleshwar – Pratapgad</a>
+        <a href="Panch-Jyotirling.php">Panch Jyotirling</a>
+        <a href="Bhimashankar-details.php">Bhimashankar</a>
+        <a href="Tarkarli –Malvan.php">Tarkarli–Malvan-Sindhudurga</a>
+        <a href="Pune-Darshan.php">Pune Darshan</a>
+        <a href="Shri-Shani-Shingnapur.php">Shri Shani Shingnapur - Shirdi</a>
+        <a href="Goa-details.php">Goa</a>
+
+        <a href="Omkareshwar-details.php">Omkareshwar - Indore - Ujjain</a>
+        <a href="Pandharpur-details.php">Pandharpur - Akkalkot - Tuljapur</a>
+        <a href="Shimla - Kullu.php">Shimla - Kullu - Manali</a>
+
+
+
+
+
+
       </div>
     </div>
     <div class="nav-item">
-    <a href="#" class="nav-link" >Car & Bus Rental</a>
+    <a href="car-bus-rental.php" class="nav-link" >Car & Bus Rental</a>
 
     </div>
     <div class="nav-item">

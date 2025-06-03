@@ -56,7 +56,8 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
+                        (2 Days / 1 Night)</p>
                         <!-- <p>2 Adults</p> -->
                     </div>
 
@@ -78,7 +79,8 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p></i><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p></i><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
+                        (2 Days / 1 Night)</p>
                         <!-- <p>2 Adults</p> -->
                     </div>
 
@@ -100,7 +102,7 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p></i><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p></i><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (2 Days / 1 Night)</p>
                         <!-- <p>2 Adults</p> -->
                     </div>
 
@@ -121,7 +123,8 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
+                        (2 Days / 1 Night)</p>
                     </div>
 
          
@@ -181,7 +184,8 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
+                        (2 Days / 1 Night)</p>
                         
                     </div>
 
@@ -201,7 +205,7 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (4 Days / 3 Night)</p>
                         
                     </div>
 
@@ -220,7 +224,8 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Day
+                        One Day Trip</p>
                       
                     </div>
 
@@ -260,7 +265,8 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Day
+                        One Day Trip</p>
                         
                     </div>
 
@@ -280,7 +286,8 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Day
+                        One Day Trip</p>
                         
                     </div>
 
@@ -301,7 +308,7 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>(5 Days / 4 Night)</p>
                         
                     </div>
 
@@ -321,7 +328,7 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (5 Days / 4 Night)</p>
                        
                     </div>
 
@@ -341,7 +348,8 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
+                        (2 Days / 1 Night)</p>
                         
                     </div>
 
@@ -362,8 +370,9 @@
                     </div>
                     <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
                     <div class="d-card-flex">
-                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
-                        <p>2 Adults</p>
+                        <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Day
+                        (6 Days / 5 Night)</p>
+                        
                     </div>
 
                    
@@ -405,25 +414,25 @@
 
             <div class="count-div">
                 <div>
-                    <h1>600+</h1>
+                <span class="d-flex align-items-center"><h1 class="counter" data-target="600">0</h1><label for="" class="h1">+</label></span>
                     <p>
                         Happy Travelers
                     </p>
                 </div>
                 <div>
-                    <h1>20+</h1>
+                    <span class="d-flex align-items-center"><h1 class="counter" data-target="20">0</h1><label for="" class="h1">+</label></span>
                     <p>
                         Destinations Covered
                     </p>
                 </div>
                 <div>
-                    <h1>5+</h1>
+                <span class="d-flex align-items-center"><h1 class="counter" data-target="5">0</h1><label for="" class="h1">+</label></span>
                     <p>
                         Awards and Recognitions
                     </p>
                 </div>
                 <div>
-                    <h1>15+</h1>
+                <span class="d-flex align-items-center"><h1 class="counter" data-target="15">0</h1><label for="" class="h1">+</label></span>
                     <p>
                         Years in Service
                     </p>
@@ -468,46 +477,13 @@
     </div>
 </section>
 <section class="container-div fade-in-on-scroll">
-    <div>
-        <div class="row">
-            <div class="col-lg-8 col-md-6 col-sm-12 mt-2">
-                <h3>Deals & Discounts</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum
-                    elit
-                    egestas, libero dolor auctor tellus, eu consectetur neque elit quis.</p>
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12 mt-3">
-                        <div class="deal-div">
-                            <img src="bootstrap/images/deal.jpg" alt="">
-                            <div class="deal-inner-div">
-                                <div>
-                                    <label for="">7.7 Superb</label>
-                                    <p>Valley of the Kings</p>
-                                </div>
-                                <div>
-                                    <p><label for="" class="strike">Rs. 9500</label> Rs. 7500</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 mt-3">
-                        <div class="deal-div">
-                            <img src="bootstrap/images/deal.jpg" alt="">
-                            <div class="deal-inner-div">
-                                <div>
-                                    <label for="">7.7 Superb</label>
-                                    <p>Valley of the Kings</p>
-                                </div>
-                                <div>
-                                    <p><label for="" class="strike">Rs. 9500</label> Rs. 7500</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<h2>Reviews</h2>
 
-            <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+ 
+        <div class="row">
+           
+
+            <div class="col-lg-8 col-md-6 col-sm-12 mt-2">
                 <div class="review-section">
 
                     <div class="review-card">
@@ -537,21 +513,20 @@
                 </div>
 
             </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 mt-2">
+            <img src="bootstrap/images/deal.jpg" alt="" width="100%" class="review-img">
+              
+            </div>
         </div>
 </section>
 <section class="container-div gray-div fade-in-on-scroll">
     <h2>Popular Destinations</h2>
     <p class="container-p">Discover the world's most popular destinations, where culture, adventure, and breathtaking beauty come together to create unforgettable memories.
     </p>
-    <div class="cardtTabs">
-        <div class="cardtTab active" onclick="showcardtTab('all')">ALL</div>
-        <div class="cardtTab" onclick="showcardtTab('budget')">BUDGET FRIENDLY</div>
-        <div class="cardtTab" onclick="showcardtTab('escorted')">ESCORTED TOURS</div>
-        <div class="cardtTab" onclick="showcardtTab('recommended')">RECOMMENDED</div>
-    </div>
+  
     <div class="carousel-container">
         <button class="nav-btn-popular prev-btn" onclick="scrollCardsDest(-1)">❮</button>
-        <div id="all" class="cardtTab-content active">
+        <div  class="cardtTab-content">
 
             <div class="tour-cards DestContainer">
                 <!-- Repeatable Card -->
@@ -559,7 +534,7 @@
                 <img src="bootstrap/images/tour01.png" />                    <div class="card-content-popular">
                        
                 <h3>Ashtavinayak Darshan</h3>
-                <h3 class="price">₹ 2590</h3>
+                
                       
                        
 
@@ -572,7 +547,7 @@
                     <div class="card-content-popular">
                        
                     <h3>Aurangabad - Ajanta - Ellora</h3>
-                    <h3 class="price">₹ 4990</h3>                      
+                                        
                        
 
 
@@ -584,7 +559,7 @@
                     <div class="card-content-popular">
                        
                     <h3>Mahabaleshwar – Pratapgad</h3>
-                    <h3 class="price">₹ 4990</h3>                      
+                                     
                        
 
 
@@ -595,7 +570,7 @@
                     <div class="card-content-popular">
                        
                     <h3>Diveagar – Dapoli - Kelshi</h3>
-                    <h3 class="price">₹ 7500</h3>                      
+                                         
                        
 
 
@@ -605,139 +580,14 @@
 
             </div>
         </div>
-        <div id="budget" class="cardtTab-content">
-            <div class="tour-cards DestContainer">
-                <!-- Repeatable Card -->
-
-
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-2.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <!-- Add more cards here if needed -->
-            </div>
-        </div>
-        <div id="escorted" class="cardtTab-content">
-            <div class="tour-cards DestContainer">
-            <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-1.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-2.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-                <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div id="recommended" class="cardtTab-content">
-            <div class="tour-cards DestContainer">
-
-            <div class="card-popular">
-                    <img src="bootstrap/images/tour-img-3.png" />
-                    <div class="card-content-popular">
-                       
-                            <h3>Diveagar – Dapoli – Kelshi</h3>
-                            <h3 class="price">₹ 7500</h3>
-                      
-                       
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
+      
+  
 
         <button class="nav-btn-popular next-btn" onclick="scrollCardsDest(1)">❯</button>
     </div>
 
 
 
-    <div class="text-center mt-3"> <button class="container-button">Book</button>
     </div>
 </section>
 <section>
@@ -745,8 +595,7 @@
 </section>
 <section class="container-div pb-0">
     <h2>Interesting Facts</h2>
-    <p class="container-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae
-        condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc. Cras elementum pretium.
+    <p class="container-p">Discover your next adventure effortlessly — book personalized tours that turn your travel dreams into unforgettable memories!</p>
     <div class="fact-container">
         <button class="nav-btn prev-btn" onclick="scrollfactDest(-1)">❮</button>
 

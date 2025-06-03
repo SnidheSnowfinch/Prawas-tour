@@ -17,7 +17,7 @@
         <input type="email" placeholder="E-mail" required>
         <input type="text" placeholder="Subject" required>
         <textarea placeholder="Comment" rows="4" required></textarea>
-        <button type="submit">SEARCH</button>
+        <button type="submit">SUBMIT</button>
       </form>
     </div>
         </div>
@@ -31,17 +31,17 @@
 
       <div class="office-info">
         <div>
-          <p><strong>Address</strong></p>
+          <p class="mb-1"><strong>Address</strong></p>
 <p>          Shop No. 3, Kharabe Building, Pune-Nashik Road, Near Kulkarni Hospital, Gavhane Vasti, Bhosari, Pune – 411039.
 </p>        </div>
         <div>
         <div>
-         <p> <strong>Phone</strong></p>
+         <p class="mb-1"> <strong>Phone</strong></p>
         <p class="m-0">+91 8308806225</p>
          <p>+91 9356923863</p>
         </div>
         <div>
-         <p> <strong>Email</strong></p>
+         <p class="mb-1"> <strong>Email</strong></p>
         <p>prawastours@gmail.com</p>
         </div>
         </div>

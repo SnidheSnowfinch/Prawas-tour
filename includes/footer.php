@@ -1,4 +1,5 @@
 <footer>
+<button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">↑</button>
     <div class="footer-container">
   
       <div class="footer-logo">
@@ -16,7 +17,7 @@
         <h4>Quick Links</h4>
         <ul>
           <li><a href="about-us.php">About Us</a></li>
-          <li>Contact Us</li>
+          <li><a href="contact-us.php">Contact Us</a></li>
           <li><a href="package.php">Package</a></li>
         </ul>
       </div>
@@ -51,13 +52,11 @@
     </div>
   
     <div class="footer-bottom">
-      © 2025 Prawas Tours. All Rights Reserved
+    PRAWAS TOURS © 2024 All Right Reserved. Powered By Edmeta.
       <div class="footer-icons">
-        <i class="bi bi-facebook-f"></i>
-        <i class="bi bi-instagram"></i>
-        <i class="bi bi-linkedin-in"></i>
-        <i class="bi bi-pinterest-p"></i>
-        <i class="bi bi-twitter"></i>
+        <a href=""><i class="bi bi-facebook"></i></a>
+        <a href=""><i class="bi bi-instagram"></i></a>
+      
       </div>
     </div>
   </footer>
@@ -66,21 +65,15 @@
   <!-- JS for Scroll -->
   <script>
   
-      function showcardtTab(cardtTabId) {
-          document.querySelectorAll('.cardtTab').forEach(cardtTab => cardtTab.classList.remove('active'));
-          document.querySelectorAll('.cardtTab-content').forEach(content => content.classList.remove('active'));
-  
-          document.querySelector(`.cardtTab[onclick*="${cardtTabId}"]`).classList.add('active');
-          document.getElementById(cardtTabId).classList.add('active');
-      }
+
   
     
       function scrollCardsDest(direction) {
-    const activeTabContent = document.querySelector('.cardtTab-content.active');
+    const activeTabContent = document.querySelector('.cardtTab-content');
 
     if (activeTabContent) {
         const container = activeTabContent.querySelector('.DestContainer');
-        const scrollAmount = 330;
+        const scrollAmount = 340;
 
         if (container) {
             container.scrollBy({
@@ -103,7 +96,7 @@
       function scrollCards(direction) {
     const container = document.getElementById("cardContainer");
 
-    const desktopScrollAmount = 352;
+    const desktopScrollAmount = 345;
     const mobileScrollAmount = 280;
 
     const isMobile = window.innerWidth <= 768; 
@@ -203,11 +196,26 @@
   });
   document.addEventListener("DOMContentLoaded", () => {
       const tours = [
-          { name: "Bali & Indonesia Tour", price: 7500, days: 10, rating: 6.3, image: "bootstrap/images/tour-img-2.png", date: "2025-06-01" },
-          { name: "Maldives Getaway", price: 12500, days: 7, rating: 8.1, image: "bootstrap/images/tour-img-3.png", date: "2025-04-15" },
-          { name: "Thailand Adventure", price: 9800, days: 5, rating: 7.2, image: "bootstrap/images/tour-img-3.png", date: "2025-07-10" },
-          { name: "Sri Lanka Explorer", price: 6700, days: 9, rating: 6.7, image: "bootstrap/images/tour-img-2.png", date: "2025-05-20" },
-          { name: "Dubai City Tour", price: 8200, days: 6, rating: 8.5, image: "bootstrap/images/tour-img-1.png", date: "2025-03-18" },
+        
+          { name: "Ashtavinayak Darshan", price: 2590, days: "Every Saturday (2 Days / 1 Night)" , rating: 5, image: "bootstrap/images/tour01.png", date: "2025-06-03",link: "Ashtavinayak-Darshan.php" },
+          { name: "Akara Maruti – Kolhapur Narasoba Wadi", price: 4990 , days: "Every Saturday (2 Days / 1 Night)", rating: 5, image: "bootstrap/images/tour02.png", date: "2025-06-03",link: "Akara-Maruti.php" },
+          { name: "Alibag - Nagaon - Murud Janjira", price: 4990 , days: "Every Friday (2 Days / 1 Night)", rating: 5, image: "bootstrap/images/tour03.png", date: "2025-06-03",link: "Alibag-details.php" },
+          { name: "Aurangabad - Ajanta - Ellora", price: 4990 , days: "Every Saturday (2 Days / 1 Night)", rating: 5, image: "bootstrap/images/tour04.png", date: "2025-06-03",link: "Aurangabad-details.php" },
+          { name: "Diveagar – Dapoli - Kelshi", price: 7500 , days: "Every Friday (3 Days / 2 Night)", rating: 5, image: "bootstrap/images/tour05.png", date: "2025-06-03",link: "Diveagar-details.php" },
+          { name: "Ganapatipule – Guhagar", price: 7500 , days: "Every Friday (3 Days / 2 Night)", rating: 5, image: "bootstrap/images/tour06.png", date: "2025-06-03",link: "Ganapatipule.php" },
+          { name: "Mahabaleshwar – Pratapgad", price: 4990 , days: "Every Saturday (2 Days / 1 Night)", rating: 5, image: "bootstrap/images/tour07.png", date: "2025-06-03",link: "Mahabaleshwar-details.php" },
+          { name: "Panch Jyotirling", price: 7999 , days: "Every Friday (4 Days / 3 Night)", rating: 5, image: "bootstrap/images/tour08.png", date: "2025-06-03",link: "Panch-Jyotirling.php" },
+          { name: "Bhimashankar", price: 999 , days: "Every Day One Day Trip", rating: 5, image: "bootstrap/images/tour09.png", date: "2025-06-03",link: "Bhimashankar-details.php" },
+          { name: "Tarkarli –Malvan- Sindhudurga", price: 7990 , days: "Every Friday (3 Days / 2 Night)", rating: 5, image: "bootstrap/images/tour010.png", date: "2025-06-03",link: "Tarkarli –Malvan.php" },
+          { name: "Pune Darshan", price: 999 , days: "Every Day One Day Trip", rating: 5, image: "bootstrap/images/tour011.png", date: "2025-06-03",link: "Pune-Darshan.php" },
+          { name: "Shri Shani Shingnapur - Shirdi", price: 1111 , days: "Every Day One Day Trip", rating: 5, image: "bootstrap/images/tour012.png", date: "2025-06-03",link: "Shri-Shani-Shingnapur.php" },
+          { name: "Goa", price: 11500 , days: "(5 Days / 4 Night)", rating: 5, image: "bootstrap/images/tour013.png", date: "2025-06-03",link: "Goa-details.php" },
+          { name: "Omkareshwar - Indore - Ujjain ", price: 11500 , days: "Every Friday (5 Days / 4 Night)", rating: 5, image: "bootstrap/images/tour014.png", date: "2025-06-03",link: "Omkareshwar-details.php" },
+          { name: "Pandharpur - Akkalkot - Tuljapur ", price: 4990 , days: "Every Saturday (2 Days / 1 Night)", rating: 5, image: "bootstrap/images/tour015.png", date: "2025-06-03",link: "Pandharpur-details.php" },
+          { name: "Shimla - Kullu - Manali", price: 19990 , days: "Every Day (6 Days / 5 Night)", rating: 5, image: "bootstrap/images/tour016.png", date: "2025-06-03",link: "Shimla - Kullu.php" }
+
+
+
       ];
   
       function renderTours(list) {
@@ -224,9 +232,11 @@
                 <p>Awesome experience guaranteed.</p>
                 <div class="d-card-flex">
                   <p> ${tour.days} Days</p>
-                  <p> 2 Adults</p>
+                  
                 </div>
               </div>
+                              <div class="text-center card-content-buttons"><a href="${tour.link}" class="search-button">More Details</a></div>
+
             </div>`;
           });}
       }
@@ -299,6 +309,45 @@ window.addEventListener('DOMContentLoaded', () => {
         });
       }, 100); 
     });
+
+    // ----------
+    const counters = document.querySelectorAll('.counter');
+
+counters.forEach(counter => {
+  const updateCount = () => {
+    const target = +counter.getAttribute('data-target');
+    const count = +counter.innerText;
+
+    const speed = 100; 
+    const increment = Math.ceil(target / speed);
+
+    if (count < target) {
+      counter.innerText = count + increment;
+      setTimeout(updateCount, 20);
+    } else {
+      counter.innerText = target;
+    }
+  };
+
+  updateCount();
+});
+// Show button when page is scrolled
+window.onscroll = function () {
+    const btn = document.getElementById("backToTopBtn");
+    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+      btn.style.display = "block";
+    } else {
+      btn.style.display = "none";
+    }
+  };
+
+  // Scroll to top when button is clicked
+  function scrollToTop() {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  }
   </script>
   <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
   
