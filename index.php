@@ -12,29 +12,55 @@
             <h6>Destination</h6>
         </div>
         <span>
-            <h6>When</h6>
+            
+        <div class="filter-bar">
+  <!-- When -->
+  <div class="custom-select" id="whenSelect">
+    <label class="select-label">When</label>
+    <div class="select-toggle">
+      <span> Month</span>
+      <span class="select-icon"><img src="bootstrap/images/calendar.png" alt=""></span>
+    </div>
+    <div class="select-options">
+      <div>June</div>
+      <div>July</div>
+      <div>August</div>
+      <div>September</div>
+    </div>
+  </div>
 
-            <select>
-                <option>When</option>
-                <option>January</option>
-                <option>February</option>
-            </select>
+  <!-- Where -->
+  <div class="custom-select" id="whereSelect">
+    <label class="select-label">Where</label>
+    <div class="select-toggle">
+      <span> Destination</span>
+      <span class="select-icon"><img src="bootstrap/images/world-icon.png" alt=""></span>
+    </div>
+    <div class="select-options">
+      <div>Goa</div>
+      <div>Kerala</div>
+      <div>Himachal</div>
+      <div>Rajasthan</div>
+    </div>
+  </div>
+
+  <!-- What -->
+  <div class="custom-select" id="whatSelect">
+    <label class="select-label">What</label>
+    <div class="select-toggle">
+      <span> Type</span>
+      <span class="select-icon"><img src="bootstrap/images/type.png" alt=""></span>
+    </div>
+    <div class="select-options">
+      <div>Adventure</div>
+      <div>Beach</div>
+      <div>Hill Station</div>
+      <div>Wildlife</div>
+    </div>
+  </div>
+</div>
         </span>
-        <span>
-          <h6>Where</h6>
-
-            <input type="text" placeholder="Where" />
-        </span>
-        <span>
-            <h6>Where</h6>
-            <select>
-
-
-                <option>What</option>
-                <option>Adventure</option>
-            </select>
-        </span>
-        <button>Search</button>
+        <button class="btn-slide">Search</button>
     </div>
 </header>
 
@@ -54,7 +80,7 @@
                         <h3>Ashtavinayak Darshan</h3>
                         <h3 class="price">₹ 2590</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
                         (2 Days / 1 Night)</p>
@@ -64,7 +90,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Ashtavinayak-Darshan.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
 
             </div>
@@ -77,7 +103,7 @@
                         <h3>Akara Maruti – Kolhapur Narasoba Wadi</h3>
                         <h3 class="price">₹ 4990</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p></i><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
                         (2 Days / 1 Night)</p>
@@ -87,7 +113,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Akara-Maruti.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
 
             </div></a>
@@ -100,7 +126,7 @@
                         <h3>Alibag - Nagaon - Murud Janjira</h3>
                         <h3 class="price">₹ 4990</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p></i><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (2 Days / 1 Night)</p>
                         <!-- <p>2 Adults</p> -->
@@ -110,7 +136,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Alibag-details.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
 
@@ -121,7 +147,7 @@
                         <h3>Aurangabad - Ajanta - Ellora</h3>
                         <h3 class="price">₹ 4990</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
                         (2 Days / 1 Night)</p>
@@ -131,7 +157,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Aurangabad-details.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
 
@@ -142,7 +168,7 @@
                         <h3>Diveagar – Dapoli - Kelshi</h3>
                         <h3 class="price">₹ 7500</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
                     </div>
@@ -150,7 +176,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Diveagar-details.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
 
@@ -161,7 +187,7 @@
                         <h3>Ganapatipule – Guhagar</h3>
                         <h3 class="price">₹ 7500</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
                         
@@ -171,7 +197,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Ganapatipule.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
 
             </div></a>
@@ -182,7 +208,7 @@
                         <h3>Mahabaleshwar – Pratapgad</h3>
                         <h3 class="price">₹ 4990</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
                         (2 Days / 1 Night)</p>
@@ -192,7 +218,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Mahabaleshwar-details.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
 
@@ -203,7 +229,7 @@
                         <h3>Panch Jyotirling</h3>
                         <h3 class="price">₹ 7999</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (4 Days / 3 Night)</p>
                         
@@ -212,7 +238,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Panch-Jyotirling.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
             <a href="Bhimashankar-details.php"><div class="card">
@@ -222,7 +248,7 @@
                         <h3>Bhimashankar</h3>
                         <h3 class="price">₹ 999</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Day
                         One Day Trip</p>
@@ -232,7 +258,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Bhimashankar-details.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
 
@@ -243,7 +269,7 @@
                         <h3>Tarkarli–Malvan-Sindhudurga</h3>
                         <h3 class="price">₹ 7990</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (3 Days / 2 Night)</p>
                        
@@ -253,7 +279,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Tarkarli –Malvan.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
             <a href="Pune-Darshan.php"><div class="card">
@@ -263,7 +289,7 @@
                         <h3>Pune Darshan</h3>
                         <h3 class="price">₹ 999</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Day
                         One Day Trip</p>
@@ -274,7 +300,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Pune-Darshan.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
            <a href="Shri-Shani-Shingnapur.php"> <div class="card">
@@ -284,7 +310,7 @@
                         <h3>Shri Shani Shingnapur - Shirdi</h3>
                         <h3 class="price">₹ 1111</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Day
                         One Day Trip</p>
@@ -295,7 +321,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Shri-Shani-Shingnapur.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
             <a href="Goa-details.php"><div class="card">
@@ -306,7 +332,7 @@
                             South Goa North Goa Sidesing</h3>
                         <h3 class="price">₹ 11500</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>(5 Days / 4 Night)</p>
                         
@@ -316,7 +342,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Goa-details.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
           <a href="Omkareshwar-details.php">  <div class="card">
@@ -326,7 +352,7 @@
                         <h3>Omkareshwar - Indore - Ujjain</h3>
                         <h3 class="price">₹ 11500</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Friday (5 Days / 4 Night)</p>
                        
@@ -336,7 +362,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Omkareshwar-details.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
            <a href="Pandharpur-details.php"> <div class="card">
@@ -346,7 +372,7 @@
                         <h3>Pandharpur - Akkalkot - Tuljapur</h3>
                         <h3 class="price">₹ 4990</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Saturday
                         (2 Days / 1 Night)</p>
@@ -357,7 +383,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Pandharpur-details.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div></a>
            <a href="Shimla - Kullu.php">
@@ -368,7 +394,7 @@
                         <h3>Shimla - Kullu - Manali</h3>
                         <h3 class="price">₹ 19990</h3>
                     </div>
-                    <p><i class="bi bi-emoji-smile me-2"></i>5 Super</p>
+                    <p><i class="bi bi-emoji-smile-fill me-2"></i>5 Super</p>
                     <div class="d-card-flex">
                         <p><i class="bi bi-arrow-counterclockwise me-2"></i>Every Day
                         (6 Days / 5 Night)</p>
@@ -379,7 +405,7 @@
                 </div>
                 <div class="card-content-buttons">
                         <a href="Shimla - Kullu.php" class="card-button">Trip Details</a>
-                        <button class="card-button-fill">Book</button>
+                        <a href="https://prawasbus.com" class="card-button-fill btn-slide">Book</a>
                     </div>
             </div>
            </a>
@@ -524,7 +550,7 @@
     <p class="container-p">Discover the world's most popular destinations, where culture, adventure, and breathtaking beauty come together to create unforgettable memories.
     </p>
   
-    <div class="carousel-container">
+    <div class="carousel-container-popular">
         <button class="nav-btn-popular prev-btn" onclick="scrollCardsDest(-1)">❮</button>
         <div  class="cardtTab-content">
 
@@ -590,8 +616,10 @@
 
     </div>
 </section>
-<section>
+<section class="fade-in-on-scroll position-relative">
     <img class="video" src="bootstrap/images/video.jpg" alt="">
+    <div class="centered-text" id="typingText"></div>
+
 </section>
 <section class="container-div pb-0">
     <h2>Interesting Facts</h2>

@@ -23,10 +23,12 @@
     <div class="logo">
       <a href="index.php"><img src="bootstrap/images/Prawas_logo_round.png.png" alt="Logo" /></a>
     </div>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="nav-toggler" onclick="toggleMenu(this)">
+      <span></span>
+      <span></span>
+      <span></span>
+</div>
+        <div class="collapse navbar-collapse" id="navMenu">
     <div class="nav-links">
     <div class="nav-item"> <a class="nav-link active" href="index.php">Home</a></div>
 
@@ -71,6 +73,10 @@
 
     <div class="nav-item">
     <a href="contact-us.php" class="nav-link">Contact</a>
+
+    </div>
+    <div class="nav-item">
+    <a href="https://prawasbus.com" class="nav-btn-top">Book a tour</a>
 
     </div>
 

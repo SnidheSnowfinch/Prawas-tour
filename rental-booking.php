@@ -52,7 +52,7 @@
       <label>No. of persons<span class="required">*</span></label>
       <input type="text" placeholder="Number of persons" required />
 
-      <button class="container-button w-100" type="submit">Book Now</button>
+      <button class="container-button btn-slide w-100" type="submit">Book Now</button>
     </form>
   </div>
 </div>

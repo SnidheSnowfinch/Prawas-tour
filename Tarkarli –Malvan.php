@@ -273,7 +273,7 @@
 
             <button class="check-button">Check Availibility</button>
 
-            <button class="search-button">SEARCH</button>
+            <button class="search-button btn-slide">SEARCH</button>
         </div>
     </div>
 </div>

@@ -30,11 +30,13 @@
             <p>Discover the World</p>
             <input type="text" placeholder="Search Tour">
             <input type="text" placeholder="Destination">
-            <input type="month">
+            <input type="date">
 
-            <label>Price Range</label>
-            <input type="range" min="1000" max="25000" step="500" value="7500">
-            <div class="form-check d-flex mt-2">
+            <label for="priceRange">Price Range</label>
+  <div class="range-box">
+    <input type="range" id="priceRange" min="1000" max="25000" step="500" value="7500">
+    <input type="text" id="priceValue" value="₹7500" readonly>
+  </div>            <div class="form-check d-flex mt-2">
                                 <input class="form-check-input" required type="checkbox" id="checkbox1">
                                 <label class="form-check-label mx-2" for="checkbox1">recommended</label>
                             </div>
@@ -58,13 +60,13 @@
 
                             
 
-            <button class="search-button">SEARCH</button>
+            <button class="search-button btn-slide">SEARCH</button>
         </div>
         <div class="news-div">
           <h3>Newsletter</h3>
           <p>Loreempore dolores possimus in recusandae?</p>
           <input type="email" placeholder="Email">
-          <button class="search-button">SEARCH</button>
+          <button class="search-button btn-slide">SEARCH</button>
 
 
         </div>

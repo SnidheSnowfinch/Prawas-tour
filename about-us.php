@@ -100,8 +100,10 @@
 
 
 </div>
-<section class="fade-in-on-scroll">
+<section class="fade-in-on-scroll position-relative">
     <img class="video" src="bootstrap/images/video.jpg" alt="">
+    <div class="centered-text">Discover unforgettable destinations and turn your travel dreams into reality.</div>
+
 </section>
 <div class="container-div fade-in-on-scroll">
     <div class="fecility-div">

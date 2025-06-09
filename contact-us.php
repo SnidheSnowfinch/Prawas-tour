@@ -17,7 +17,7 @@
         <input type="email" placeholder="E-mail" required>
         <input type="text" placeholder="Subject" required>
         <textarea placeholder="Comment" rows="4" required></textarea>
-        <button type="submit">SUBMIT</button>
+        <button type="submit" class="btn-slide">SUBMIT</button>
       </form>
     </div>
         </div>

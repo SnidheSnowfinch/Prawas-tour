@@ -18,13 +18,13 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/swift.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">Swift & Other AC / Non-AC</div>
                     <div class="price-rental">Starting From Rs. 27/- <label for="">Per km</label></div>
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -33,14 +33,14 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/ertiga.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">Ertiga AC
                     Non-AC</div>
                     <div class="price-rental">Starting From Rs. 15/- <label for="">Per km</label></div>
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -49,13 +49,13 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/innova.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">Innova</div>
                     <div class="price-rental">Starting From Rs. 18/- <label for="">Per km</label></div>
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -64,13 +64,13 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/innova-crysta.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">Innova Crysta</div>
                     <div class="price-rental">Starting From Rs. 20/- <label for="">Per km</label></div>
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -79,13 +79,13 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/12-tempo-traveller.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">12 Temp Traveller AC</div>
                     <div class="price-rental">AC Starting From Rs. 27/- <label for="">Per km</label></div>
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -94,13 +94,13 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/13-winger.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">13 Winger AC</div>
                     <div class="price-rental">AC Starting From Rs. 23/- <label for="">Per km</label></div>
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -109,7 +109,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/13+1-tempo-traveller.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">13+1 Tempo Traveller AC
                     Non-AC</div>
                     <div class="price-rental">AC Starting From Rs. 26/- <label for="">Per km</label></div>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -127,7 +127,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/13+1-sml.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">13+1 Sml AC
                     </div>
                     <div class="price-rental">AC Starting From Rs. 30/- <label for="">Per km</label></div>
@@ -135,7 +135,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -144,7 +144,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/17+1-tempo-traveller.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">17+1 Tempo Traveller
                     AC / Non-AC
                     </div>
@@ -155,7 +155,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -164,7 +164,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/20+1-tempo-traveller.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">20+1 Tempo Traveller
                     AC / Non-AC
                     </div>
@@ -175,7 +175,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -184,7 +184,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/26+1(22).png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">26+1(2*2)
                     AC / Non-AC
                     </div>
@@ -195,7 +195,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -204,7 +204,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/31+1(22).png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">31+1(2*2)
                     AC / Non-AC
                     </div>
@@ -215,7 +215,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -224,7 +224,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/35+1-bharatbenz.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">35+1 Bharatbenz AC
                     </div>
                     <div class="price-rental">AC Starting From Rs. 55/- <label for="">Per km</label></div>
@@ -233,7 +233,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -242,7 +242,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/45+1(22).png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">45+1(2*2)
                     AC / Non-AC
                     </div>
@@ -253,7 +253,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -262,7 +262,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/454749-volvo.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">45/47/49 Volvo (2*2) AC
                     </div>
                     <div class="price-rental">AC Starting From Rs. 85/- <label for="">Per km</label></div>
@@ -271,7 +271,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>
@@ -280,7 +280,7 @@
             <div class="card-rental">
                 <img src="bootstrap/images/Rental/30-ac-sleeper.png" />
                 <div class="card-rental-body">
-                    <div class="rating-rental"><i class="bi bi-emoji-smile me-2"></i> 5 Superb</div>
+                    <div class="rating-rental"><i class="bi bi-emoji-smile-fill me-2"></i> 5 Superb</div>
                     <div class="title-rental">30 AC Sleeper
                     </div>
                     <div class="price-rental">AC Starting From Rs. 80/- <label for="">Per km</label></div>
@@ -289,7 +289,7 @@
                 </div>
                 <div class="card-content-buttons">
                     <a class="card-button-rental">Call Now</a>
-                    <a href="rental-booking.php" class="card-button-rental-fill">Book Now</a>
+                    <a href="rental-booking.php" class="card-button-rental-fill btn-slide">Book Now</a>
                 </div>
 
             </div>

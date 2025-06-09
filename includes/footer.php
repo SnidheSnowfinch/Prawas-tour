@@ -67,13 +67,12 @@
   
 
   
-    
-      function scrollCardsDest(direction) {
+  function scrollCardsDest(direction) {
     const activeTabContent = document.querySelector('.cardtTab-content');
 
     if (activeTabContent) {
         const container = activeTabContent.querySelector('.DestContainer');
-        const scrollAmount = 340;
+        const scrollAmount = window.innerWidth <= 768 ? 261 : 340;
 
         if (container) {
             container.scrollBy({
@@ -83,7 +82,6 @@
         }
     }
 }
-
       function scrollfactDest(direction) {
           const container = document.getElementById("fact-div");
           const scrollAmount = 150; 
@@ -235,7 +233,7 @@
                   
                 </div>
               </div>
-                              <div class="text-center card-content-buttons"><a href="${tour.link}" class="search-button">More Details</a></div>
+                              <div class="text-center card-content-buttons"><a href="${tour.link}" class="search-button btn-slide">More Details</a></div>
 
             </div>`;
           });}
@@ -348,6 +346,51 @@ window.onscroll = function () {
       behavior: 'smooth'
     });
   }
+  function toggleMenu(toggler) {
+      toggler.classList.toggle('active');
+      document.getElementById('navMenu').classList.toggle('show');
+    }
+    document.querySelectorAll('.custom-select').forEach(select => {
+    const toggle = select.querySelector('.select-toggle');
+    const options = select.querySelector('.select-options');
+    const labelSpan = toggle.querySelector('span');
+
+    toggle.addEventListener('click', () => {
+      select.classList.toggle('open');
+    });
+
+    options.querySelectorAll('div').forEach(option => {
+      option.addEventListener('click', () => {
+        labelSpan.textContent = option.textContent;
+        select.classList.remove('open');
+      });
+    });
+  });
+
+  document.addEventListener('click', (e) => {
+    document.querySelectorAll('.custom-select').forEach(select => {
+      if (!select.contains(e.target)) {
+        select.classList.remove('open');
+      }
+    });
+  });
+  const range = document.getElementById("priceRange");
+    const valueBox = document.getElementById("priceValue");
+if(range){
+    range.addEventListener("input", () => {
+      valueBox.value = `₹${range.value}`;
+    });}
+    // -----
+    const text = "Discover unforgettable destinations and turn your travel dreams into reality.";
+  let i = 0;
+  function type() {
+    if (i < text.length) {
+      document.getElementById("typingText").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(type, 100);
+    }
+  }
+  type();
   </script>
   <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
   
