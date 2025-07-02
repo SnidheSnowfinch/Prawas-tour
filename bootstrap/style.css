@@ -275,15 +275,11 @@ header h1, .header-about h1, .header-package h1 {
 
 .card-content-buttons {
   padding: 5px 15px 20px 15px;
-
-
   display: flex;
   justify-content: space-between;
   margin-top: auto;
 }
 .card-buttons-rental {
-
-
   display: flex;
   justify-content: space-between;
   margin-top: auto;
@@ -383,8 +379,6 @@ header h1, .header-about h1, .header-package h1 {
 .card-button-rental:hover::after {
   width: 100%;
 }
-
-
 .container-button {
  
   text-transform: uppercase;
@@ -392,19 +386,16 @@ header h1, .header-about h1, .header-package h1 {
   margin: 0 5px;
   padding: 8px 8px;
   border: none;
- 
   color: white;
   cursor: pointer;
 }
 .card-button-fill {
   text-align: center;
   text-transform: uppercase;
-
   flex: 1;
   margin: 0 5px;
   padding: 5px 8px;
   border: none;
-  /* background: #FA9521; */
   color: white;
   cursor: pointer;
 }
@@ -412,7 +403,6 @@ header h1, .header-about h1, .header-package h1 {
   font-size: 15px;
   text-align: center;
   text-transform: uppercase;
-
   flex: 1;
   margin: 0 5px;
   padding: 5px 8px;
@@ -524,7 +514,6 @@ header h1, .header-about h1, .header-package h1 {
   .navbar-collapse {
     margin-top: 20px;
     margin-bottom: 20px;
-
     flex-basis: 100%;
     flex-grow: 1;
     align-items: center;
@@ -541,7 +530,8 @@ header h1, .header-about h1, .header-package h1 {
     font-size: 38px !important;
     margin-bottom: 10px;
   }
-  
+  .footer-bottom {
+    margin-top: 20px !important;}
 
   .fact-div {
     margin: 1px 45px !important;
@@ -567,7 +557,7 @@ header h1, .header-about h1, .header-package h1 {
     padding: 10px !important;
     display: flex
 ;
-    gap: 10px;}
+    gap: 12px;}
   .carousel-container {
    
     position: relative;
@@ -591,7 +581,7 @@ header h1, .header-about h1, .header-package h1 {
   }
 
   .card {
-    width: 260px;
+    width: 290px;
   }
 }
 .fact-div{
@@ -2845,7 +2835,6 @@ input[type="range"] {
   width: -webkit-fill-available !important;
   text-transform: uppercase;
   padding: 5px 10px;
-  /* width: 255px !important; */
   background-color: #FA9521;
   color: white !important;
   border: none;
@@ -2885,12 +2874,12 @@ input[type="range"] {
 
 .icon-left {
   left: 20px;
-  background-color: #25d366; /* WhatsApp green */
+  background-color: #25d366; 
 }
 
 .icon-right {
   right: 20px;
-  background-color: #0d6efd; /* Call - blue */
+  background-color: #0d6efd;
 }
 .icon-right a,.icon-left a {
   color: white;

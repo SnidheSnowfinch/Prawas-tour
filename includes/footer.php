@@ -108,7 +108,7 @@
     const container = document.getElementById("cardContainer");
 
     const desktopScrollAmount = 345;
-    const mobileScrollAmount = 280;
+    const mobileScrollAmount = 320;
 
     const isMobile = window.innerWidth <= 768; 
 
