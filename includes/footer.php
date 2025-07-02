@@ -1,7 +1,18 @@
 <footer>
-<button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">↑</button>
+<div class="icon-left">
+    <a href="" target="_blank">
+      <i class="bi bi-whatsapp"></i>
+    </a>
+  </div>
+
+  <!-- Call Icon -->
+  <div class="icon-right">
+    <a href="">
+      <i class="bi bi-telephone"></i>
+    </a>
+  </div>
+
     <div class="footer-container">
-  
       <div class="footer-logo">
         <img src="bootstrap/images/Prawas_logo_round.png.png" alt="logo">
         <h2>Prawas Tours</h2>
@@ -51,7 +62,9 @@
       </div>
     </div>
   
-    <div class="footer-bottom">
+    <div class="footer-bottom position-relative">
+    <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">↑</button>
+
     PRAWAS TOURS © 2024 All Right Reserved. Powered By Edmeta.
       <div class="footer-icons">
         <a href=""><i class="bi bi-facebook"></i></a>
